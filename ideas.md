@@ -18,6 +18,10 @@
 -   x2 switchs
 -   x2 potentiometer
 -   3 buttons
+-   3 leds
+    - red for charging
+    - yellow for on
+    - green for charged
 
 ## inside
 
