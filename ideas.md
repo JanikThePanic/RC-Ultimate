@@ -20,7 +20,7 @@
 -   3 buttons
 -   3 leds
     - red for charging
-    - yellow for on
+    - white for on
     - green for charged
 
 ## inside
