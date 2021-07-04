@@ -6,6 +6,7 @@
 -   custom pcb (easyeda)
 -   needs battery
     -   could do lipo with pcb
+    -   nvm, have to do coin battery
 -   casing
 -   will make a RC Ultimate Mini after
     -   will have a slim single joystick and is one handed
@@ -18,10 +19,7 @@
 -   x2 switchs
 -   x2 potentiometer
 -   3 buttons
--   3 leds
-    - red for charging
-    - white for on
-    - green for charged
+-   led as power status
 
 ## inside
 
