@@ -1,0 +1,2084 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="icon-lock" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-270.8 198.9 269.3 198.4" style="enable-background:new -270.8 198.9 269.3 198.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{mask:url(#multiLayerMask);}
+	.st2{fill:#80785F;}
+	.st3{fill:#FFFFFF;filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st4{mask:url(#topBoardSolderMask);fill:#101010;}
+	.st5{fill:#DCAA14;}
+	.st6{fill:#DCAA14;stroke:#DCAA14;stroke-width:7.874;}
+	.st7{fill:#FFFFFF;filter:url(#Adobe_OpacityMaskFilter_2_);}
+	.st8{mask:url(#topSignalSolderMask);}
+	.st9{stroke:#000000;stroke-width:7.874;}
+	.st10{fill:none;stroke:#FFFFFF;stroke-linecap:round;}
+	.st11{fill:none;stroke:#FFFFFF;stroke-width:0.7874;stroke-linecap:round;}
+	.st12{display:none;}
+	.st13{display:inline;fill:none;stroke:#FFFFFF;stroke-width:0.6;}
+	.st14{fill:none;stroke:#FFFFFF;stroke-width:0.6;}
+	.st15{fill:none;stroke:#FFFFFF;stroke-width:0.8;}
+	.st16{fill:none;stroke:#FFFFFF;stroke-width:1.18;}
+	.st17{fill:none;stroke:#FFFFFF;}
+	.st18{fill:none;stroke:#FFFFFF;stroke-width:1.1811;}
+	.st19{fill:#FFFFFF;}
+	.st20{fill:#FFFFFF;filter:url(#Adobe_OpacityMaskFilter_3_);}
+	.st21{display:none;mask:url(#bottomBoardSolderMask);fill:#101010;}
+	.st22{display:inline;}
+	.st23{fill:#FFFFFF;filter:url(#Adobe_OpacityMaskFilter_4_);}
+	.st24{display:none;mask:url(#bottomSignalSolderMask);}
+</style>
+<title>Photo View</title>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-270.8" y="167.7" width="271.5" height="229.7">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="-270.8" y="167.7" width="271.5" height="229.7" id="multiLayerMask">
+	<path class="st0" d="M-270.8,397.3V198.9H-1.5v198.4H-270.8z"/>
+	<g>
+		<circle cx="-221.4" cy="265.9" r="1.7"/>
+		<circle cx="-214.2" cy="237.1" r="1.7"/>
+		<circle cx="-207.7" cy="265.9" r="1.7"/>
+		<circle cx="-46.9" cy="277.9" r="1.4"/>
+		<circle cx="-46.9" cy="307" r="1.4"/>
+		<circle cx="-64.5" cy="265.9" r="1.7"/>
+		<circle cx="-57.3" cy="237.1" r="1.7"/>
+		<circle cx="-50.8" cy="265.9" r="1.7"/>
+		<circle cx="-136.2" cy="340.2" r="1.3"/>
+		<circle cx="-136.2" cy="347.4" r="1.3"/>
+		<path d="M-258.3,239.7c-0.9,0-1.7-0.8-1.7-1.7c0-0.9,0.8-1.7,1.7-1.7h3.4c0.9,0,1.7,0.8,1.7,1.7c0,0.9-0.8,1.7-1.7,1.7H-258.3z"/>
+		<path d="M-258.3,253c-0.9,0-1.7-0.8-1.7-1.7c0-0.9,0.8-1.7,1.7-1.7h3.4c0.9,0,1.7,0.8,1.7,1.7c0,0.9-0.8,1.7-1.7,1.7H-258.3z"/>
+		<path d="M-258.3,266.4c-0.9,0-1.7-0.8-1.7-1.7c0-0.9,0.8-1.7,1.7-1.7h3.4c0.9,0,1.7,0.8,1.7,1.7c0,0.9-0.8,1.7-1.7,1.7H-258.3z"/>
+		<path d="M-17.4,239.7c-0.9,0-1.7-0.8-1.7-1.7c0-0.9,0.8-1.7,1.7-1.7h3.4c0.9,0,1.7,0.8,1.7,1.7c0,0.9-0.8,1.7-1.7,1.7H-17.4z"/>
+		<path d="M-17.4,253c-0.9,0-1.7-0.8-1.7-1.7c0-0.9,0.8-1.7,1.7-1.7h3.4c0.9,0,1.7,0.8,1.7,1.7c0,0.9-0.8,1.7-1.7,1.7H-17.4z"/>
+		<path d="M-17.4,266.4c-0.9,0-1.7-0.8-1.7-1.7c0-0.9,0.8-1.7,1.7-1.7h3.4c0.9,0,1.7,0.8,1.7,1.7c0,0.9-0.8,1.7-1.7,1.7H-17.4z"/>
+		<circle cx="-217.7" cy="294.6" r="1.7"/>
+		<circle cx="-217.7" cy="287.4" r="1.7"/>
+		<circle cx="-176" cy="374.7" r="1.3"/>
+		<circle cx="-161.2" cy="374.7" r="1.3"/>
+		<circle cx="-143.4" cy="374.7" r="1.3"/>
+		<circle cx="-128.6" cy="374.7" r="1.3"/>
+		<circle cx="-110.8" cy="374.7" r="1.3"/>
+		<circle cx="-96" cy="374.7" r="1.3"/>
+		<circle cx="-68.1" cy="291" r="1.1"/>
+		<circle cx="-62.5" cy="291" r="1.1"/>
+		<circle cx="-138.7" cy="311.7" r="1.3"/>
+		<circle cx="-138.7" cy="304.5" r="1.3"/>
+		<circle cx="-138.7" cy="297.3" r="1.3"/>
+		<circle cx="-138.7" cy="290.1" r="1.3"/>
+		<circle cx="-138.7" cy="282.9" r="1.3"/>
+		<circle cx="-138.7" cy="275.7" r="1.3"/>
+		<circle cx="-138.7" cy="268.5" r="1.3"/>
+		<circle cx="-138.7" cy="261.3" r="1.3"/>
+		<circle cx="-138.7" cy="254.1" r="1.3"/>
+		<circle cx="-138.7" cy="246.9" r="1.3"/>
+		<circle cx="-138.7" cy="239.7" r="1.3"/>
+		<circle cx="-138.7" cy="232.5" r="1.3"/>
+		<circle cx="-138.7" cy="225.3" r="1.3"/>
+		<circle cx="-138.7" cy="218.1" r="1.3"/>
+		<circle cx="-138.7" cy="210.9" r="1.3"/>
+		<circle cx="-181.9" cy="210.9" r="1.3"/>
+		<circle cx="-181.9" cy="218.1" r="1.3"/>
+		<circle cx="-181.9" cy="225.3" r="1.3"/>
+		<circle cx="-181.9" cy="232.5" r="1.3"/>
+		<circle cx="-181.9" cy="239.7" r="1.3"/>
+		<circle cx="-181.9" cy="246.9" r="1.3"/>
+		<circle cx="-181.9" cy="254.1" r="1.3"/>
+		<circle cx="-181.9" cy="261.3" r="1.3"/>
+		<circle cx="-181.9" cy="268.5" r="1.3"/>
+		<circle cx="-181.9" cy="275.7" r="1.3"/>
+		<circle cx="-181.9" cy="282.9" r="1.3"/>
+		<circle cx="-181.9" cy="290.1" r="1.3"/>
+		<circle cx="-181.9" cy="297.3" r="1.3"/>
+		<circle cx="-181.9" cy="304.5" r="1.3"/>
+		<circle cx="-181.9" cy="311.7" r="1.3"/>
+		<circle cx="-246.3" cy="339.5" r="2"/>
+		<circle cx="-203.1" cy="339.5" r="2"/>
+		<circle cx="-203.1" cy="377.3" r="2"/>
+		<circle cx="-246.3" cy="377.3" r="2"/>
+		<circle cx="-217.5" cy="387.2" r="1.3"/>
+		<circle cx="-224.7" cy="387.2" r="1.3"/>
+		<circle cx="-231.9" cy="387.2" r="1.3"/>
+		<circle cx="-253.5" cy="358.4" r="1.3"/>
+		<circle cx="-253.5" cy="365.6" r="1.3"/>
+		<circle cx="-253.5" cy="351.2" r="1.3"/>
+		<circle cx="-215.7" cy="336.8" r="1.3"/>
+		<circle cx="-233.7" cy="336.8" r="1.3"/>
+		<circle cx="-233.7" cy="322.4" r="1.3"/>
+		<circle cx="-215.7" cy="322.4" r="1.3"/>
+		<circle cx="-69.1" cy="339.5" r="2"/>
+		<circle cx="-25.9" cy="339.5" r="2"/>
+		<circle cx="-25.9" cy="377.3" r="2"/>
+		<circle cx="-69.1" cy="377.3" r="2"/>
+		<circle cx="-40.3" cy="387.2" r="1.3"/>
+		<circle cx="-47.5" cy="387.2" r="1.3"/>
+		<circle cx="-54.7" cy="387.2" r="1.3"/>
+		<circle cx="-76.3" cy="358.4" r="1.3"/>
+		<circle cx="-76.3" cy="365.6" r="1.3"/>
+		<circle cx="-76.3" cy="351.2" r="1.3"/>
+		<circle cx="-38.5" cy="336.8" r="1.3"/>
+		<circle cx="-56.5" cy="336.8" r="1.3"/>
+		<circle cx="-56.5" cy="322.4" r="1.3"/>
+		<circle cx="-38.5" cy="322.4" r="1.3"/>
+		<circle cx="-119.3" cy="307.4" r="1.3"/>
+		<circle cx="-112.1" cy="307.4" r="1.3"/>
+		<circle cx="-104.9" cy="307.4" r="1.3"/>
+		<circle cx="-97.7" cy="307.4" r="1.3"/>
+		<circle cx="-97.7" cy="300.2" r="1.3"/>
+		<circle cx="-104.9" cy="300.2" r="1.3"/>
+		<circle cx="-112.1" cy="300.2" r="1.3"/>
+		<circle cx="-119.3" cy="300.2" r="1.3"/>
+		<circle cx="-260.9" cy="388.8" r="3.1"/>
+		<circle cx="-11.4" cy="388.8" r="3.1"/>
+		<circle cx="-11.4" cy="207.4" r="3.1"/>
+		<circle cx="-260.9" cy="207.4" r="3.1"/>
+	</g>
+</mask>
+<g id="g1" class="st1">
+	<g id="layer_other">
+		<path id="boardOutlineReal" class="st2" d="M-270.8,397.3V198.9H-1.5v198.4H-270.8z"/>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="-270.8" y="198.9" width="269.3" height="198.4">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="-270.8" y="198.9" width="269.3" height="198.4" id="topBoardSolderMask">
+			<path class="st3" d="M-270.8,397.3V198.9H-1.5v198.4H-270.8z"/>
+			<g>
+				<ellipse cx="-221.4" cy="265.9" rx="3.3" ry="3.3"/>
+				<ellipse cx="-214.2" cy="237.1" rx="3.3" ry="3.3"/>
+				<ellipse cx="-207.7" cy="265.9" rx="3.3" ry="3.3"/>
+				<ellipse cx="-46.9" cy="277.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-46.9" cy="307" rx="2.3" ry="2.3"/>
+				<ellipse cx="-64.5" cy="265.9" rx="3.3" ry="3.3"/>
+				<ellipse cx="-57.3" cy="237.1" rx="3.3" ry="3.3"/>
+				<ellipse cx="-50.8" cy="265.9" rx="3.3" ry="3.3"/>
+				<ellipse cx="-136.2" cy="340.2" rx="2.6" ry="2.6"/>
+				<ellipse cx="-136.2" cy="347.4" rx="2.6" ry="2.6"/>
+				<path d="M-259.5,241.1c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-259.5z"
+					/>
+				<path d="M-259.5,254.5c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-259.5z"
+					/>
+				<path d="M-259.5,267.8c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-259.5z"
+					/>
+				<path d="M-18.5,241.1c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-18.5z"/>
+				<path d="M-18.5,254.5c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-18.5z"/>
+				<path d="M-18.5,267.8c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-18.5z"/>
+				<ellipse cx="-217.7" cy="294.6" rx="2.7" ry="2.7"/>
+				<polygon points="-220.4,290.1 -220.4,284.7 -215,284.7 -215,290.1 				"/>
+				<ellipse cx="-176" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-161.2" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-143.4" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-128.6" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-110.8" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-96" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-68.1" cy="291" rx="2" ry="2"/>
+				<ellipse cx="-62.5" cy="291" rx="2" ry="2"/>
+				<ellipse cx="-138.7" cy="311.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="304.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="297.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="290.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="282.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="275.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="268.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="261.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="254.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="246.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="239.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="232.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="225.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="218.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="210.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="210.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="218.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="225.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="232.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="239.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="246.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="254.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="261.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="268.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="275.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="282.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="290.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="297.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="304.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="311.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-246.3" cy="339.5" rx="3.5" ry="3.5"/>
+				<ellipse cx="-203.1" cy="339.5" rx="3.5" ry="3.5"/>
+				<ellipse cx="-203.1" cy="377.3" rx="3.5" ry="3.5"/>
+				<ellipse cx="-246.3" cy="377.3" rx="3.5" ry="3.5"/>
+				<ellipse cx="-217.5" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-224.7" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-231.9" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-253.5" cy="358.4" rx="2.8" ry="2.8"/>
+				<ellipse cx="-253.5" cy="365.6" rx="2.8" ry="2.8"/>
+				<ellipse cx="-253.5" cy="351.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-215.7" cy="336.8" rx="2.8" ry="2.8"/>
+				<ellipse cx="-233.7" cy="336.8" rx="2.8" ry="2.8"/>
+				<ellipse cx="-233.7" cy="322.4" rx="2.8" ry="2.8"/>
+				<ellipse cx="-215.7" cy="322.4" rx="2.8" ry="2.8"/>
+				<ellipse cx="-69.1" cy="339.5" rx="3.5" ry="3.5"/>
+				<ellipse cx="-25.9" cy="339.5" rx="3.5" ry="3.5"/>
+				<ellipse cx="-25.9" cy="377.3" rx="3.5" ry="3.5"/>
+				<ellipse cx="-69.1" cy="377.3" rx="3.5" ry="3.5"/>
+				<ellipse cx="-40.3" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-47.5" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-54.7" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-76.3" cy="358.4" rx="2.8" ry="2.8"/>
+				<ellipse cx="-76.3" cy="365.6" rx="2.8" ry="2.8"/>
+				<ellipse cx="-76.3" cy="351.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-38.5" cy="336.8" rx="2.8" ry="2.8"/>
+				<ellipse cx="-56.5" cy="336.8" rx="2.8" ry="2.8"/>
+				<ellipse cx="-56.5" cy="322.4" rx="2.8" ry="2.8"/>
+				<ellipse cx="-38.5" cy="322.4" rx="2.8" ry="2.8"/>
+				<polygon points="-121.7,309.8 -121.7,305 -116.9,305 -116.9,309.8 				"/>
+				<ellipse cx="-112.1" cy="307.4" rx="2.4" ry="2.4"/>
+				<ellipse cx="-104.9" cy="307.4" rx="2.4" ry="2.4"/>
+				<ellipse cx="-97.7" cy="307.4" rx="2.4" ry="2.4"/>
+				<ellipse cx="-97.7" cy="300.2" rx="2.4" ry="2.4"/>
+				<ellipse cx="-104.9" cy="300.2" rx="2.4" ry="2.4"/>
+				<ellipse cx="-112.1" cy="300.2" rx="2.4" ry="2.4"/>
+				<ellipse cx="-119.3" cy="300.2" rx="2.4" ry="2.4"/>
+			</g>
+		</mask>
+		<path id="topBoardSolderReal" class="st4" d="M-270.8,397.3V198.9H-1.5v198.4H-270.8z"/>
+		<g id="topSignalReal">
+			<g id="gge2392_11">
+				<ellipse class="st5" cx="-221.4" cy="265.9" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2397_11">
+				<ellipse class="st5" cx="-214.2" cy="237.1" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2402_11">
+				<ellipse class="st5" cx="-207.7" cy="265.9" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2423_11">
+				<ellipse class="st5" cx="-46.9" cy="277.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge2428_11">
+				<ellipse class="st5" cx="-46.9" cy="307" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge2446_11">
+				<ellipse class="st5" cx="-64.5" cy="265.9" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2451_11">
+				<ellipse class="st5" cx="-57.3" cy="237.1" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2456_11">
+				<ellipse class="st5" cx="-50.8" cy="265.9" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2001_11">
+				<ellipse class="st5" cx="-136.2" cy="340.2" rx="2.3" ry="2.3"/>
+			</g>
+			<g id="gge2006_11">
+				<ellipse class="st5" cx="-136.2" cy="347.4" rx="2.3" ry="2.3"/>
+			</g>
+			<g id="gge8_11">
+				<line class="st6" x1="-259.5" y1="238" x2="-253.8" y2="238"/>
+			</g>
+			<g id="gge13_11">
+				<line class="st6" x1="-259.5" y1="251.3" x2="-253.8" y2="251.3"/>
+			</g>
+			<g id="gge18_11">
+				<line class="st6" x1="-259.5" y1="264.7" x2="-253.8" y2="264.7"/>
+			</g>
+			<g id="gge30_11">
+				<line class="st6" x1="-18.5" y1="238" x2="-12.9" y2="238"/>
+			</g>
+			<g id="gge35_11">
+				<line class="st6" x1="-18.5" y1="251.3" x2="-12.9" y2="251.3"/>
+			</g>
+			<g id="gge40_11">
+				<line class="st6" x1="-18.5" y1="264.7" x2="-12.9" y2="264.7"/>
+			</g>
+			<g id="gge105_11">
+				<ellipse class="st5" cx="-217.7" cy="294.6" rx="2.6" ry="2.6"/>
+			</g>
+			<g id="gge110_11">
+				<polygon class="st5" points="-215.1,284.9 -215.1,290 -220.2,290 -220.2,284.9 				"/>
+			</g>
+			<g id="gge122_11">
+				<ellipse class="st5" cx="-176" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge127_11">
+				<ellipse class="st5" cx="-161.2" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge139_11">
+				<ellipse class="st5" cx="-143.4" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge144_11">
+				<ellipse class="st5" cx="-128.6" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge156_11">
+				<ellipse class="st5" cx="-110.8" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge161_11">
+				<ellipse class="st5" cx="-96" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge221_11">
+				<ellipse class="st5" cx="-68.1" cy="291" rx="1.8" ry="1.8"/>
+			</g>
+			<g id="gge226_11">
+				<ellipse class="st5" cx="-62.5" cy="291" rx="1.8" ry="1.8"/>
+			</g>
+			<g id="gge271_11">
+				<ellipse class="st5" cx="-138.7" cy="311.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge276_11">
+				<ellipse class="st5" cx="-138.7" cy="304.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge281_11">
+				<ellipse class="st5" cx="-138.7" cy="297.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge286_11">
+				<ellipse class="st5" cx="-138.7" cy="290.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge291_11">
+				<ellipse class="st5" cx="-138.7" cy="282.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge296_11">
+				<ellipse class="st5" cx="-138.7" cy="275.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge301_11">
+				<ellipse class="st5" cx="-138.7" cy="268.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge306_11">
+				<ellipse class="st5" cx="-138.7" cy="261.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge311_11">
+				<ellipse class="st5" cx="-138.7" cy="254.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge316_11">
+				<ellipse class="st5" cx="-138.7" cy="246.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge321_11">
+				<ellipse class="st5" cx="-138.7" cy="239.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge326_11">
+				<ellipse class="st5" cx="-138.7" cy="232.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge331_11">
+				<ellipse class="st5" cx="-138.7" cy="225.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge336_11">
+				<ellipse class="st5" cx="-138.7" cy="218.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge341_11">
+				<ellipse class="st5" cx="-138.7" cy="210.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge346_11">
+				<ellipse class="st5" cx="-181.9" cy="210.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge351_11">
+				<ellipse class="st5" cx="-181.9" cy="218.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge356_11">
+				<ellipse class="st5" cx="-181.9" cy="225.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge361_11">
+				<ellipse class="st5" cx="-181.9" cy="232.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge366_11">
+				<ellipse class="st5" cx="-181.9" cy="239.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge371_11">
+				<ellipse class="st5" cx="-181.9" cy="246.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge376_11">
+				<ellipse class="st5" cx="-181.9" cy="254.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge381_11">
+				<ellipse class="st5" cx="-181.9" cy="261.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge386_11">
+				<ellipse class="st5" cx="-181.9" cy="268.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge391_11">
+				<ellipse class="st5" cx="-181.9" cy="275.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge396_11">
+				<ellipse class="st5" cx="-181.9" cy="282.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge401_11">
+				<ellipse class="st5" cx="-181.9" cy="290.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge406_11">
+				<ellipse class="st5" cx="-181.9" cy="297.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge411_11">
+				<ellipse class="st5" cx="-181.9" cy="304.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge416_11">
+				<ellipse class="st5" cx="-181.9" cy="311.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge452_11">
+				<ellipse class="st5" cx="-246.3" cy="339.5" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge457_11">
+				<ellipse class="st5" cx="-203.1" cy="339.5" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge462_11">
+				<ellipse class="st5" cx="-203.1" cy="377.3" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge467_11">
+				<ellipse class="st5" cx="-246.3" cy="377.3" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge472_11">
+				<ellipse class="st5" cx="-217.5" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge477_11">
+				<ellipse class="st5" cx="-224.7" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge482_11">
+				<ellipse class="st5" cx="-231.9" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge487_11">
+				<ellipse class="st5" cx="-253.5" cy="358.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge492_11">
+				<ellipse class="st5" cx="-253.5" cy="365.6" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge497_11">
+				<ellipse class="st5" cx="-253.5" cy="351.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge502_11">
+				<ellipse class="st5" cx="-215.7" cy="336.8" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge507_11">
+				<ellipse class="st5" cx="-233.7" cy="336.8" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge512_11">
+				<ellipse class="st5" cx="-233.7" cy="322.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge517_11">
+				<ellipse class="st5" cx="-215.7" cy="322.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge595_11">
+				<ellipse class="st5" cx="-69.1" cy="339.5" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge600_11">
+				<ellipse class="st5" cx="-25.9" cy="339.5" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge605_11">
+				<ellipse class="st5" cx="-25.9" cy="377.3" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge610_11">
+				<ellipse class="st5" cx="-69.1" cy="377.3" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge615_11">
+				<ellipse class="st5" cx="-40.3" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge620_11">
+				<ellipse class="st5" cx="-47.5" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge625_11">
+				<ellipse class="st5" cx="-54.7" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge630_11">
+				<ellipse class="st5" cx="-76.3" cy="358.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge635_11">
+				<ellipse class="st5" cx="-76.3" cy="365.6" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge640_11">
+				<ellipse class="st5" cx="-76.3" cy="351.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge645_11">
+				<ellipse class="st5" cx="-38.5" cy="336.8" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge650_11">
+				<ellipse class="st5" cx="-56.5" cy="336.8" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge655_11">
+				<ellipse class="st5" cx="-56.5" cy="322.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge660_11">
+				<ellipse class="st5" cx="-38.5" cy="322.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge725_11">
+				<polygon class="st5" points="-121.4,305.3 -117.2,305.3 -117.2,309.5 -121.4,309.5 				"/>
+			</g>
+			<g id="gge730_11">
+				<ellipse class="st5" cx="-112.1" cy="307.4" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge735_11">
+				<ellipse class="st5" cx="-104.9" cy="307.4" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge740_11">
+				<ellipse class="st5" cx="-97.7" cy="307.4" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge745_11">
+				<ellipse class="st5" cx="-97.7" cy="300.2" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge750_11">
+				<ellipse class="st5" cx="-104.9" cy="300.2" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge755_11">
+				<ellipse class="st5" cx="-112.1" cy="300.2" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge760_11">
+				<ellipse class="st5" cx="-119.3" cy="300.2" rx="2.1" ry="2.1"/>
+			</g>
+		</g>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_2_" filterUnits="userSpaceOnUse" x="-259.5" y="208.7" width="246.6" height="181">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="-259.5" y="208.7" width="246.6" height="181" id="topSignalSolderMask">
+			<path class="st7" d="M-270.8,397.3V198.9H-1.5v198.4H-270.8z"/>
+			<g>
+				<ellipse cx="-221.4" cy="265.9" rx="3.3" ry="3.3"/>
+				<ellipse cx="-214.2" cy="237.1" rx="3.3" ry="3.3"/>
+				<ellipse cx="-207.7" cy="265.9" rx="3.3" ry="3.3"/>
+				<ellipse cx="-46.9" cy="277.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-46.9" cy="307" rx="2.3" ry="2.3"/>
+				<ellipse cx="-64.5" cy="265.9" rx="3.3" ry="3.3"/>
+				<ellipse cx="-57.3" cy="237.1" rx="3.3" ry="3.3"/>
+				<ellipse cx="-50.8" cy="265.9" rx="3.3" ry="3.3"/>
+				<ellipse cx="-136.2" cy="340.2" rx="2.6" ry="2.6"/>
+				<ellipse cx="-136.2" cy="347.4" rx="2.6" ry="2.6"/>
+				<path d="M-259.5,241.1c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-259.5z"
+					/>
+				<path d="M-259.5,254.5c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-259.5z"
+					/>
+				<path d="M-259.5,267.8c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-259.5z"
+					/>
+				<path d="M-18.5,241.1c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-18.5z"/>
+				<path d="M-18.5,254.5c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-18.5z"/>
+				<path d="M-18.5,267.8c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-18.5z"/>
+				<ellipse cx="-217.7" cy="294.6" rx="2.7" ry="2.7"/>
+				<polygon points="-220.4,290.1 -220.4,284.7 -215,284.7 -215,290.1 				"/>
+				<ellipse cx="-176" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-161.2" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-143.4" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-128.6" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-110.8" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-96" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-68.1" cy="291" rx="2" ry="2"/>
+				<ellipse cx="-62.5" cy="291" rx="2" ry="2"/>
+				<ellipse cx="-138.7" cy="311.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="304.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="297.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="290.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="282.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="275.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="268.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="261.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="254.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="246.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="239.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="232.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="225.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="218.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="210.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="210.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="218.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="225.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="232.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="239.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="246.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="254.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="261.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="268.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="275.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="282.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="290.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="297.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="304.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="311.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-246.3" cy="339.5" rx="3.5" ry="3.5"/>
+				<ellipse cx="-203.1" cy="339.5" rx="3.5" ry="3.5"/>
+				<ellipse cx="-203.1" cy="377.3" rx="3.5" ry="3.5"/>
+				<ellipse cx="-246.3" cy="377.3" rx="3.5" ry="3.5"/>
+				<ellipse cx="-217.5" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-224.7" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-231.9" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-253.5" cy="358.4" rx="2.8" ry="2.8"/>
+				<ellipse cx="-253.5" cy="365.6" rx="2.8" ry="2.8"/>
+				<ellipse cx="-253.5" cy="351.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-215.7" cy="336.8" rx="2.8" ry="2.8"/>
+				<ellipse cx="-233.7" cy="336.8" rx="2.8" ry="2.8"/>
+				<ellipse cx="-233.7" cy="322.4" rx="2.8" ry="2.8"/>
+				<ellipse cx="-215.7" cy="322.4" rx="2.8" ry="2.8"/>
+				<ellipse cx="-69.1" cy="339.5" rx="3.5" ry="3.5"/>
+				<ellipse cx="-25.9" cy="339.5" rx="3.5" ry="3.5"/>
+				<ellipse cx="-25.9" cy="377.3" rx="3.5" ry="3.5"/>
+				<ellipse cx="-69.1" cy="377.3" rx="3.5" ry="3.5"/>
+				<ellipse cx="-40.3" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-47.5" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-54.7" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-76.3" cy="358.4" rx="2.8" ry="2.8"/>
+				<ellipse cx="-76.3" cy="365.6" rx="2.8" ry="2.8"/>
+				<ellipse cx="-76.3" cy="351.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-38.5" cy="336.8" rx="2.8" ry="2.8"/>
+				<ellipse cx="-56.5" cy="336.8" rx="2.8" ry="2.8"/>
+				<ellipse cx="-56.5" cy="322.4" rx="2.8" ry="2.8"/>
+				<ellipse cx="-38.5" cy="322.4" rx="2.8" ry="2.8"/>
+				<polygon points="-121.7,309.8 -121.7,305 -116.9,305 -116.9,309.8 				"/>
+				<ellipse cx="-112.1" cy="307.4" rx="2.4" ry="2.4"/>
+				<ellipse cx="-104.9" cy="307.4" rx="2.4" ry="2.4"/>
+				<ellipse cx="-97.7" cy="307.4" rx="2.4" ry="2.4"/>
+				<ellipse cx="-97.7" cy="300.2" rx="2.4" ry="2.4"/>
+				<ellipse cx="-104.9" cy="300.2" rx="2.4" ry="2.4"/>
+				<ellipse cx="-112.1" cy="300.2" rx="2.4" ry="2.4"/>
+				<ellipse cx="-119.3" cy="300.2" rx="2.4" ry="2.4"/>
+			</g>
+		</mask>
+		<g id="topSignalSolderReal" class="st8">
+			<g id="gge2392_11_1_">
+				<ellipse cx="-221.4" cy="265.9" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2397_11_1_">
+				<ellipse cx="-214.2" cy="237.1" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2402_11_1_">
+				<ellipse cx="-207.7" cy="265.9" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2423_11_1_">
+				<ellipse cx="-46.9" cy="277.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge2428_11_1_">
+				<ellipse cx="-46.9" cy="307" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge2446_11_1_">
+				<ellipse cx="-64.5" cy="265.9" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2451_11_1_">
+				<ellipse cx="-57.3" cy="237.1" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2456_11_1_">
+				<ellipse cx="-50.8" cy="265.9" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2001_11_1_">
+				<ellipse cx="-136.2" cy="340.2" rx="2.3" ry="2.3"/>
+			</g>
+			<g id="gge2006_11_1_">
+				<ellipse cx="-136.2" cy="347.4" rx="2.3" ry="2.3"/>
+			</g>
+			<g id="gge8_11_1_">
+				<line class="st9" x1="-259.5" y1="238" x2="-253.8" y2="238"/>
+			</g>
+			<g id="gge13_11_1_">
+				<line class="st9" x1="-259.5" y1="251.3" x2="-253.8" y2="251.3"/>
+			</g>
+			<g id="gge18_11_1_">
+				<line class="st9" x1="-259.5" y1="264.7" x2="-253.8" y2="264.7"/>
+			</g>
+			<g id="gge30_11_1_">
+				<line class="st9" x1="-18.5" y1="238" x2="-12.9" y2="238"/>
+			</g>
+			<g id="gge35_11_1_">
+				<line class="st9" x1="-18.5" y1="251.3" x2="-12.9" y2="251.3"/>
+			</g>
+			<g id="gge40_11_1_">
+				<line class="st9" x1="-18.5" y1="264.7" x2="-12.9" y2="264.7"/>
+			</g>
+			<g id="gge105_11_1_">
+				<ellipse cx="-217.7" cy="294.6" rx="2.6" ry="2.6"/>
+			</g>
+			<g id="gge110_11_1_">
+				<polygon points="-215.1,284.9 -215.1,290 -220.2,290 -220.2,284.9 				"/>
+			</g>
+			<g id="gge122_11_1_">
+				<ellipse cx="-176" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge127_11_1_">
+				<ellipse cx="-161.2" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge139_11_1_">
+				<ellipse cx="-143.4" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge144_11_1_">
+				<ellipse cx="-128.6" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge156_11_1_">
+				<ellipse cx="-110.8" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge161_11_1_">
+				<ellipse cx="-96" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge221_11_1_">
+				<ellipse cx="-68.1" cy="291" rx="1.8" ry="1.8"/>
+			</g>
+			<g id="gge226_11_1_">
+				<ellipse cx="-62.5" cy="291" rx="1.8" ry="1.8"/>
+			</g>
+			<g id="gge271_11_1_">
+				<ellipse cx="-138.7" cy="311.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge276_11_1_">
+				<ellipse cx="-138.7" cy="304.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge281_11_1_">
+				<ellipse cx="-138.7" cy="297.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge286_11_1_">
+				<ellipse cx="-138.7" cy="290.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge291_11_1_">
+				<ellipse cx="-138.7" cy="282.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge296_11_1_">
+				<ellipse cx="-138.7" cy="275.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge301_11_1_">
+				<ellipse cx="-138.7" cy="268.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge306_11_1_">
+				<ellipse cx="-138.7" cy="261.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge311_11_1_">
+				<ellipse cx="-138.7" cy="254.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge316_11_1_">
+				<ellipse cx="-138.7" cy="246.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge321_11_1_">
+				<ellipse cx="-138.7" cy="239.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge326_11_1_">
+				<ellipse cx="-138.7" cy="232.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge331_11_1_">
+				<ellipse cx="-138.7" cy="225.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge336_11_1_">
+				<ellipse cx="-138.7" cy="218.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge341_11_1_">
+				<ellipse cx="-138.7" cy="210.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge346_11_1_">
+				<ellipse cx="-181.9" cy="210.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge351_11_1_">
+				<ellipse cx="-181.9" cy="218.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge356_11_1_">
+				<ellipse cx="-181.9" cy="225.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge361_11_1_">
+				<ellipse cx="-181.9" cy="232.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge366_11_1_">
+				<ellipse cx="-181.9" cy="239.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge371_11_1_">
+				<ellipse cx="-181.9" cy="246.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge376_11_1_">
+				<ellipse cx="-181.9" cy="254.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge381_11_1_">
+				<ellipse cx="-181.9" cy="261.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge386_11_1_">
+				<ellipse cx="-181.9" cy="268.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge391_11_1_">
+				<ellipse cx="-181.9" cy="275.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge396_11_1_">
+				<ellipse cx="-181.9" cy="282.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge401_11_1_">
+				<ellipse cx="-181.9" cy="290.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge406_11_1_">
+				<ellipse cx="-181.9" cy="297.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge411_11_1_">
+				<ellipse cx="-181.9" cy="304.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge416_11_1_">
+				<ellipse cx="-181.9" cy="311.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge452_11_1_">
+				<ellipse cx="-246.3" cy="339.5" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge457_11_1_">
+				<ellipse cx="-203.1" cy="339.5" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge462_11_1_">
+				<ellipse cx="-203.1" cy="377.3" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge467_11_1_">
+				<ellipse cx="-246.3" cy="377.3" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge472_11_1_">
+				<ellipse cx="-217.5" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge477_11_1_">
+				<ellipse cx="-224.7" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge482_11_1_">
+				<ellipse cx="-231.9" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge487_11_1_">
+				<ellipse cx="-253.5" cy="358.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge492_11_1_">
+				<ellipse cx="-253.5" cy="365.6" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge497_11_1_">
+				<ellipse cx="-253.5" cy="351.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge502_11_1_">
+				<ellipse cx="-215.7" cy="336.8" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge507_11_1_">
+				<ellipse cx="-233.7" cy="336.8" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge512_11_1_">
+				<ellipse cx="-233.7" cy="322.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge517_11_1_">
+				<ellipse cx="-215.7" cy="322.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge595_11_1_">
+				<ellipse cx="-69.1" cy="339.5" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge600_11_1_">
+				<ellipse cx="-25.9" cy="339.5" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge605_11_1_">
+				<ellipse cx="-25.9" cy="377.3" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge610_11_1_">
+				<ellipse cx="-69.1" cy="377.3" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge615_11_1_">
+				<ellipse cx="-40.3" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge620_11_1_">
+				<ellipse cx="-47.5" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge625_11_1_">
+				<ellipse cx="-54.7" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge630_11_1_">
+				<ellipse cx="-76.3" cy="358.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge635_11_1_">
+				<ellipse cx="-76.3" cy="365.6" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge640_11_1_">
+				<ellipse cx="-76.3" cy="351.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge645_11_1_">
+				<ellipse cx="-38.5" cy="336.8" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge650_11_1_">
+				<ellipse cx="-56.5" cy="336.8" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge655_11_1_">
+				<ellipse cx="-56.5" cy="322.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge660_11_1_">
+				<ellipse cx="-38.5" cy="322.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge725_11_1_">
+				<polygon points="-121.4,305.3 -117.2,305.3 -117.2,309.5 -121.4,309.5 				"/>
+			</g>
+			<g id="gge730_11_1_">
+				<ellipse cx="-112.1" cy="307.4" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge735_11_1_">
+				<ellipse cx="-104.9" cy="307.4" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge740_11_1_">
+				<ellipse cx="-97.7" cy="307.4" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge745_11_1_">
+				<ellipse cx="-97.7" cy="300.2" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge750_11_1_">
+				<ellipse cx="-104.9" cy="300.2" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge755_11_1_">
+				<ellipse cx="-112.1" cy="300.2" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge760_11_1_">
+				<ellipse cx="-119.3" cy="300.2" rx="2.1" ry="2.1"/>
+			</g>
+		</g>
+		<g id="topSilkLayer">
+			<line id="gge2383_3" class="st10" x1="-214.2" y1="258.7" x2="-214.2" y2="251.8"/>
+			<line id="gge2384_3" class="st10" x1="-200.5" y1="265.9" x2="-200.5" y2="237.1"/>
+			<line id="gge2385_3" class="st10" x1="-228.6" y1="265.9" x2="-200.5" y2="265.9"/>
+			<line id="gge2386_3" class="st10" x1="-200.5" y1="237.1" x2="-228.6" y2="237.1"/>
+			<line id="gge2387_3" class="st10" x1="-228.6" y1="237.1" x2="-228.6" y2="265.9"/>
+			<line id="gge2388_3" class="st10" x1="-221.4" y1="251.5" x2="-213.5" y2="251.5"/>
+			<line id="gge2389_3" class="st10" x1="-214.2" y1="244.3" x2="-214.2" y2="251.5"/>
+			<line id="gge2390_3" class="st10" x1="-213.9" y1="251.5" x2="-207" y2="251.5"/>
+			<line id="gge2417_3" class="st10" x1="-43.5" y1="283.5" x2="-43.5" y2="301.4"/>
+			<line id="gge2418_3" class="st10" x1="-43.5" y1="301.4" x2="-50.3" y2="301.4"/>
+			<line id="gge2419_3" class="st10" x1="-50.3" y1="301.4" x2="-50.3" y2="283.5"/>
+			<line id="gge2420_3" class="st10" x1="-50.3" y1="283.5" x2="-43.5" y2="283.5"/>
+			<line id="gge2437_3" class="st10" x1="-57.3" y1="258.7" x2="-57.3" y2="251.8"/>
+			<line id="gge2438_3" class="st10" x1="-43.6" y1="265.9" x2="-43.6" y2="237.1"/>
+			<line id="gge2439_3" class="st10" x1="-71.7" y1="265.9" x2="-43.6" y2="265.9"/>
+			<line id="gge2440_3" class="st10" x1="-43.6" y1="237.1" x2="-71.7" y2="237.1"/>
+			<line id="gge2441_3" class="st10" x1="-71.7" y1="237.1" x2="-71.7" y2="265.9"/>
+			<line id="gge2442_3" class="st10" x1="-64.5" y1="251.5" x2="-56.5" y2="251.5"/>
+			<line id="gge2443_3" class="st10" x1="-57.3" y1="244.3" x2="-57.3" y2="251.5"/>
+			<line id="gge2444_3" class="st10" x1="-56.9" y1="251.5" x2="-50.1" y2="251.5"/>
+			<line id="gge1997_3" class="st10" x1="-139.8" y1="348.6" x2="-132.5" y2="348.6"/>
+			<line id="gge1998_3" class="st10" x1="-131.1" y1="345.3" x2="-135.1" y2="345.3"/>
+			<polyline id="gge1999_3" class="st10" points="-133.3,345.3 -133.3,344.9 -131.1,342.8 			"/>
+			<polyline id="gge2000_3" class="st10" points="-133.3,345.3 -133.3,344.6 -135.1,342.8 -131.1,342.8 			"/>
+			<polyline id="gge7_3" class="st10" points="-267.8,232.6 -245.4,232.6 -245.4,270.1 -267.8,270.1 -267.8,232.6 			"/>
+			<polyline id="gge29_3" class="st10" points="-26.9,232.6 -4.5,232.6 -4.5,270.1 -26.9,270.1 -26.9,232.6 			"/>
+			<polyline id="gge98_3" class="st10" points="-214.1,283.8 -214.1,298.2 -221.3,298.2 -221.3,283.8 -214.1,283.8 			"/>
+			<line id="gge211_3" class="st10" x1="-69.6" y1="286.8" x2="-66.7" y2="286.8"/>
+			<line id="gge212_3" class="st10" x1="-68.1" y1="285.4" x2="-68.1" y2="288.2"/>
+			<polyline id="gge238_3" class="st10" points="-134.7,322.5 -185.8,322.5 -185.8,200 -134.7,200 -134.7,322.5 			"/>
+			<line id="gge427_3" class="st10" x1="-208.8" y1="318.8" x2="-240.5" y2="318.8"/>
+			<line id="gge428_3" class="st10" x1="-211" y1="390.8" x2="-238.4" y2="390.8"/>
+			<line id="gge429_3" class="st10" x1="-211" y1="390.8" x2="-211" y2="383.6"/>
+			<line id="gge430_3" class="st10" x1="-238.4" y1="390.8" x2="-238.4" y2="383.6"/>
+			<line id="gge431_3" class="st10" x1="-211" y1="383.6" x2="-203.1" y2="383.6"/>
+			<line id="gge432_3" class="st10" x1="-238.4" y1="383.6" x2="-246.3" y2="383.6"/>
+			<line id="gge433_3" class="st10" x1="-197.7" y1="346.9" x2="-197.7" y2="369.9"/>
+			<line id="gge434_3" class="st10" x1="-203.1" y1="346.9" x2="-203.1" y2="338.6"/>
+			<line id="gge435_3" class="st10" x1="-203.1" y1="369.9" x2="-203.1" y2="383.6"/>
+			<line id="gge436_3" class="st10" x1="-203.1" y1="346.9" x2="-197.7" y2="346.9"/>
+			<line id="gge437_3" class="st10" x1="-203.1" y1="369.9" x2="-197.7" y2="369.9"/>
+			<line id="gge438_3" class="st10" x1="-203.1" y1="338.6" x2="-208.8" y2="338.6"/>
+			<line id="gge439_3" class="st10" x1="-240.5" y1="338.6" x2="-246.3" y2="338.6"/>
+			<line id="gge440_3" class="st10" x1="-208.8" y1="318.8" x2="-208.8" y2="338.6"/>
+			<line id="gge441_3" class="st10" x1="-240.5" y1="318.8" x2="-240.5" y2="338.6"/>
+			<line id="gge442_3" class="st10" x1="-246.3" y1="344.7" x2="-256.4" y2="344.7"/>
+			<line id="gge443_3" class="st10" x1="-246.3" y1="372.1" x2="-256.4" y2="372.1"/>
+			<line id="gge444_3" class="st10" x1="-256.4" y1="344.7" x2="-256.4" y2="372.1"/>
+			<line id="gge445_3" class="st10" x1="-246.3" y1="344.7" x2="-246.3" y2="338.6"/>
+			<line id="gge446_3" class="st10" x1="-246.3" y1="372.1" x2="-246.3" y2="383.6"/>
+			<line id="gge570_3" class="st10" x1="-31.7" y1="318.8" x2="-63.4" y2="318.8"/>
+			<line id="gge571_3" class="st10" x1="-33.8" y1="390.8" x2="-61.2" y2="390.8"/>
+			<line id="gge572_3" class="st10" x1="-33.8" y1="390.8" x2="-33.8" y2="383.6"/>
+			<line id="gge573_3" class="st10" x1="-61.2" y1="390.8" x2="-61.2" y2="383.6"/>
+			<line id="gge574_3" class="st10" x1="-33.8" y1="383.6" x2="-25.9" y2="383.6"/>
+			<line id="gge575_3" class="st10" x1="-61.2" y1="383.6" x2="-69.1" y2="383.6"/>
+			<line id="gge576_3" class="st10" x1="-20.5" y1="346.9" x2="-20.5" y2="369.9"/>
+			<line id="gge577_3" class="st10" x1="-25.9" y1="346.9" x2="-25.9" y2="338.6"/>
+			<line id="gge578_3" class="st10" x1="-25.9" y1="369.9" x2="-25.9" y2="383.6"/>
+			<line id="gge579_3" class="st10" x1="-25.9" y1="346.9" x2="-20.5" y2="346.9"/>
+			<line id="gge580_3" class="st10" x1="-25.9" y1="369.9" x2="-20.5" y2="369.9"/>
+			<line id="gge581_3" class="st10" x1="-25.9" y1="338.6" x2="-31.7" y2="338.6"/>
+			<line id="gge582_3" class="st10" x1="-63.4" y1="338.6" x2="-69.1" y2="338.6"/>
+			<line id="gge583_3" class="st10" x1="-31.7" y1="318.8" x2="-31.7" y2="338.6"/>
+			<line id="gge584_3" class="st10" x1="-63.4" y1="318.8" x2="-63.4" y2="338.6"/>
+			<line id="gge585_3" class="st10" x1="-69.1" y1="344.7" x2="-79.2" y2="344.7"/>
+			<line id="gge586_3" class="st10" x1="-69.1" y1="372.1" x2="-79.2" y2="372.1"/>
+			<line id="gge587_3" class="st10" x1="-79.2" y1="344.7" x2="-79.2" y2="372.1"/>
+			<line id="gge588_3" class="st10" x1="-69.1" y1="344.7" x2="-69.1" y2="338.6"/>
+			<line id="gge589_3" class="st10" x1="-69.1" y1="372.1" x2="-69.1" y2="383.6"/>
+			<polyline id="gge695_3" class="st10" points="-115.7,311 -115.7,303.8 -122.9,303.8 			"/>
+			<polyline id="gge696_3" class="st10" points="-122.9,311 -94.1,311 -94.1,296.6 -122.9,296.6 -122.9,311 			"/>
+			<line id="gge697_3" class="st11" x1="-94.1" y1="314.6" x2="-86.9" y2="314.6"/>
+			<line id="gge698_3" class="st11" x1="-86.9" y1="199.4" x2="-86.9" y2="314.6"/>
+			<polyline id="gge699_3" class="st11" points="-108.5,202.2 -117,202.2 -117,219.2 -100,219.2 -100,202.2 -108.5,202.2 			"/>
+			<line id="gge700_3" class="st11" x1="-115.6" y1="202.2" x2="-115.6" y2="192.3"/>
+			<line id="gge701_3" class="st11" x1="-101.4" y1="202.2" x2="-101.4" y2="192.3"/>
+			<polyline id="gge702_3" class="st11" points="-122.9,314.6 -130.1,314.6 -130.1,199.4 -115.6,199.4 			"/>
+			<line id="gge703_3" class="st11" x1="-101.4" y1="199.4" x2="-87.3" y2="199.4"/>
+			<polyline id="gge704_3" class="st11" points="-115.6,192.3 -100,192.3 -100,178.1 			"/>
+			<polyline id="gge705_3" class="st11" points="-115.6,192.3 -117,192.3 -117,178.1 			"/>
+			<line id="gge706_3" class="st11" x1="-117" y1="178.1" x2="-100" y2="178.1"/>
+			<g id="gge524_3" class="st12">
+				<path class="st13" d="M-190.4,233.1l-0.2-0.3l-0.3-0.3l-0.3-0.2h-0.6l-0.3,0.2l-0.3,0.3l-0.2,0.3l-0.1,0.4v0.7l0.1,0.4l0.2,0.3
+					l0.3,0.3l0.3,0.2h0.6l0.3-0.2l0.3-0.3l0.2-0.3 M-188.3,232.4l-1.2,3.1 M-188.3,232.4l1.2,3.1 M-189,234.4h1.5 M-184.2,233.4
+					l-0.1,0.4l-0.3,0.3l-0.4,0.1h-0.1l-0.4-0.1l-0.3-0.3l-0.2-0.4v-0.1l0.2-0.4l0.3-0.3l0.4-0.2h0.1l0.4,0.2l0.3,0.3L-184.2,233.4
+					v0.7l-0.1,0.7l-0.3,0.4l-0.4,0.2h-0.3l-0.4-0.2l-0.1-0.3 M-183.2,232.4v3.1 M-183.2,232.4l1.2,3.1 M-180.9,232.4l-1.2,3.1
+					 M-180.9,232.4v3.1 M-179.9,232.4l1.2,3.1 M-177.5,232.4l-1.2,3.1 M-174.3,232.9l0.3-0.1l0.4-0.4v3.1 M-171.7,232.4l-0.4,0.2
+					l-0.3,0.4l-0.1,0.7v0.4l0.1,0.7l0.3,0.4l0.4,0.2h0.3l0.4-0.2l0.3-0.4l0.1-0.7v-0.4l-0.1-0.7l-0.3-0.4l-0.4-0.2H-171.7
+					 M-169.6,232.4v3.1 M-167.5,232.4l-2.1,2.1 M-168.8,233.7l1.3,1.8"/>
+			</g>
+			<g id="gge526_3">
+				<path class="st14" d="M-232.5,226.8v3.1 M-232.5,226.8h1.3l0.4,0.1l0.1,0.2l0.2,0.3v0.4l-0.2,0.3l-0.1,0.1l-0.4,0.2h-1.3
+					 M-228.6,226.8l-0.3,0.1l-0.3,0.3l-0.2,0.3l-0.1,0.4v0.7l0.1,0.4l0.2,0.3l0.3,0.3l0.3,0.1h0.6l0.3-0.1l0.3-0.3l0.1-0.3l0.2-0.4
+					V228l-0.2-0.4l-0.1-0.3l-0.3-0.3l-0.3-0.1H-228.6 M-225.1,226.8v3.1 M-226.2,226.8h2.1 M-223.1,226.8v3.1 M-223.1,226.8h1.9
+					 M-223.1,228.3h1.2 M-223.1,229.9h1.9 M-220.3,226.8v3.1 M-220.3,226.8l2.1,3.1 M-218.2,226.8v3.1 M-216.2,226.8v3.1
+					 M-217.2,226.8h2.1 M-214.2,226.8v3.1 M-212.3,226.8l-0.3,0.1l-0.3,0.3l-0.2,0.3l-0.1,0.4v0.7l0.1,0.4l0.2,0.3l0.3,0.3l0.3,0.1
+					h0.6l0.3-0.1l0.3-0.3l0.2-0.3l0.1-0.4V228l-0.1-0.4l-0.2-0.3l-0.3-0.3l-0.3-0.1H-212.3 M-209.9,226.8v3.1 M-209.9,226.8l1.2,3.1
+					 M-207.5,226.8l-1.2,3.1 M-207.5,226.8v3.1 M-206.6,226.8v3.1 M-206.6,226.8h1.9 M-206.6,228.3h1.2 M-206.6,229.9h1.9
+					 M-202.6,226.8v3.1 M-203.7,226.8h2.1 M-200.6,226.8v3.1 M-200.6,226.8h1.9 M-200.6,228.3h1.2 M-200.6,229.9h1.9 M-197.7,226.8
+					v3.1 M-197.7,226.8h1.3l0.4,0.1l0.2,0.2l0.1,0.3v0.3l-0.1,0.3l-0.2,0.1l-0.4,0.1h-1.3 M-196.7,228.3l1,1.6 M-194.7,230.9h2.6
+					 M-191.1,227.4l0.3-0.2l0.4-0.4v3.1"/>
+			</g>
+			<g id="gge1919_3" class="st12">
+				<path class="st13" d="M-36.6,299.3h-0.1l-0.3-0.1l-0.1-0.2l-0.2-0.3v-0.6l0.2-0.3l0.1-0.2l0.3-0.1h0.3l0.3,0.1l0.1,0.2l0.3,0.6
+					h0.4 M-34.5,298.4l0.1,0.2l0.2-0.2l-0.2-0.1L-34.5,298.4 M-36.6,296.5h-0.1l-0.3-0.2l-0.1-0.1l-0.2-0.3v-0.6l0.2-0.3l0.1-0.1
+					l0.3-0.2h0.3l0.3,0.2l0.1,0.1l0.3,0.6h0.4 M-34.5,295.6l0.1,0.1l0.2-0.1l-0.2-0.2L-34.5,295.6"/>
+			</g>
+			<g id="gge1921_3">
+				<path class="st14" d="M-39.3,292.5h-3.1 M-39.3,292.5v1.3l-0.2,0.4l-0.1,0.2l-0.3,0.1h-0.3l-0.3-0.1l-0.1-0.2l-0.2-0.4v-1.3
+					 M-40.8,293.5l-1.6,1 M-39.9,295.5l0.2,0.3l0.4,0.4h-3.1"/>
+			</g>
+			<g id="gge545_3" class="st12">
+				<path class="st13" d="M-33.5,233.1l-0.1-0.3l-0.3-0.3l-0.3-0.1h-0.6l-0.3,0.1l-0.3,0.3l-0.2,0.3l-0.1,0.4v0.7l0.1,0.4l0.2,0.3
+					l0.3,0.3l0.3,0.2h0.6l0.3-0.2l0.3-0.3l0.1-0.3 M-31.3,232.4l-1.2,3.1 M-31.3,232.4l1.2,3.1 M-32,234.4h1.5 M-27.2,233.4
+					l-0.2,0.4l-0.3,0.3l-0.4,0.2h-0.2l-0.4-0.2l-0.3-0.3l-0.1-0.4v-0.1l0.1-0.4l0.3-0.3l0.4-0.1h0.2l0.4,0.1l0.3,0.3L-27.2,233.4
+					v0.7l-0.2,0.7l-0.3,0.4l-0.4,0.2h-0.3l-0.4-0.2L-29,235 M-26.3,232.4v3.1 M-26.3,232.4l1.2,3.1 M-23.9,232.4l-1.2,3.1
+					 M-23.9,232.4v3.1 M-22.9,232.4l1.2,3.1 M-20.6,232.4l-1.2,3.1 M-17.3,232.9l0.3-0.2l0.4-0.4v3.1 M-14.7,232.4l-0.4,0.1
+					l-0.3,0.4l-0.2,0.7v0.4l0.2,0.7l0.3,0.4l0.4,0.2h0.3l0.4-0.2l0.3-0.4l0.2-0.7v-0.4l-0.2-0.7l-0.3-0.4l-0.4-0.1H-14.7
+					 M-12.6,232.4v3.1 M-10.5,232.4l-2.1,2.1 M-11.9,233.7l1.3,1.8"/>
+			</g>
+			<g id="gge547_3">
+				<path class="st14" d="M-78.4,226.8v3.1 M-78.4,226.8h1.3l0.4,0.1l0.1,0.2l0.2,0.3v0.4l-0.2,0.3l-0.1,0.1l-0.4,0.2h-1.3
+					 M-74.5,226.8l-0.3,0.1l-0.3,0.3l-0.2,0.3l-0.1,0.4v0.7l0.1,0.4l0.2,0.3l0.3,0.3l0.3,0.1h0.6l0.3-0.1l0.3-0.3l0.2-0.3l0.1-0.4
+					V228l-0.1-0.4l-0.2-0.3l-0.3-0.3l-0.3-0.1H-74.5 M-71,226.8v3.1 M-72,226.8h2.1 M-69,226.8v3.1 M-69,226.8h1.9 M-69,228.3h1.2
+					 M-69,229.9h1.9 M-66.1,226.8v3.1 M-66.1,226.8l2.1,3.1 M-64.1,226.8v3.1 M-62.1,226.8v3.1 M-63.1,226.8h2.1 M-60.1,226.8v3.1
+					 M-58.2,226.8l-0.3,0.1l-0.3,0.3l-0.1,0.3l-0.2,0.4v0.7l0.2,0.4l0.1,0.3l0.3,0.3l0.3,0.1h0.6l0.3-0.1l0.3-0.3l0.1-0.3l0.1-0.4
+					V228l-0.1-0.4l-0.1-0.3l-0.3-0.3l-0.3-0.1H-58.2 M-55.8,226.8v3.1 M-55.8,226.8l1.2,3.1 M-53.4,226.8l-1.2,3.1 M-53.4,226.8v3.1
+					 M-52.4,226.8v3.1 M-52.4,226.8h1.9 M-52.4,228.3h1.2 M-52.4,229.9h1.9 M-48.5,226.8v3.1 M-49.5,226.8h2.1 M-46.5,226.8v3.1
+					 M-46.5,226.8h1.9 M-46.5,228.3h1.2 M-46.5,229.9h1.9 M-43.6,226.8v3.1 M-43.6,226.8h1.3l0.4,0.1l0.2,0.2l0.1,0.3v0.3l-0.1,0.3
+					l-0.2,0.2l-0.4,0.1h-1.3 M-42.6,228.3l1,1.6 M-40.6,230.9h2.6 M-36.8,227.6v-0.2l0.1-0.3l0.2-0.2l0.3-0.1h0.6l0.3,0.1l0.2,0.2
+					l0.1,0.3v0.3l-0.1,0.3l-0.3,0.4l-1.5,1.5h2.1"/>
+			</g>
+			<g id="gge1992_3" class="st12">
+				<path class="st13" d="M-136.5,328v3.1 M-136.5,328h1.3l0.4,0.1l0.2,0.2l0.1,0.3v0.4l-0.1,0.3l-0.2,0.1l-0.4,0.2h-1.3
+					 M-132.6,328l-0.3,0.1l-0.3,0.3l-0.1,0.3l-0.2,0.4v0.7l0.2,0.4l0.1,0.3l0.3,0.3l0.3,0.1h0.6l0.3-0.1l0.3-0.3l0.1-0.3l0.2-0.4
+					v-0.7l-0.2-0.4l-0.1-0.3l-0.3-0.3l-0.3-0.1H-132.6 M-130.2,328l0.7,3.1 M-128.7,328l-0.7,3.1 M-128.7,328l0.7,3.1 M-127.2,328
+					l-0.7,3.1 M-126.2,328v3.1 M-126.2,328h1.9 M-126.2,329.4h1.2 M-126.2,331.1h1.9 M-123.4,328v3.1 M-123.4,328h1.3l0.4,0.1
+					l0.2,0.2l0.1,0.3v0.3l-0.1,0.3l-0.2,0.1l-0.4,0.1h-1.3 M-122.3,329.4l1,1.6 M-120.3,332.1h2.6 M-114.6,328.4l-0.3-0.3l-0.4-0.1
+					h-0.6l-0.4,0.1l-0.3,0.3v0.3l0.2,0.3l0.1,0.2l0.3,0.1l0.9,0.3l0.3,0.1l0.1,0.2l0.2,0.3v0.4l-0.3,0.3l-0.4,0.1h-0.6l-0.4-0.1
+					l-0.3-0.3 M-112.6,328v3.1 M-113.7,328h2.1 M-109.5,328l-1.2,3.1 M-109.5,328l1.2,3.1 M-110.2,330h1.5 M-106.3,328v3.1
+					 M-107.3,328h2.1 M-104.3,328v2.2l0.1,0.4l0.3,0.3l0.4,0.1h0.3l0.4-0.1l0.3-0.3l0.2-0.4V328 M-99.2,328.4l-0.3-0.3l-0.4-0.1
+					h-0.6l-0.4,0.1l-0.3,0.3v0.3l0.1,0.3l0.2,0.2l0.3,0.1l0.9,0.3l0.3,0.1l0.2,0.2l0.1,0.3v0.4l-0.3,0.3l-0.4,0.1h-0.6l-0.4-0.1
+					l-0.3-0.3"/>
+			</g>
+			<g id="gge1994_3">
+				<path class="st14" d="M-149.3,331.7v3.1 M-149.3,331.7h1.3l0.4,0.1l0.1,0.2l0.2,0.3v0.4l-0.2,0.3l-0.1,0.1l-0.4,0.2h-1.3
+					 M-145.3,331.7l-0.3,0.1l-0.3,0.3l-0.2,0.3l-0.1,0.4v0.7l0.1,0.4l0.2,0.3l0.3,0.3l0.3,0.1h0.6l0.3-0.1l0.3-0.3l0.2-0.3l0.1-0.4
+					v-0.7l-0.1-0.4l-0.2-0.3l-0.3-0.3l-0.3-0.1H-145.3 M-142.9,331.7l0.7,3.1 M-141.4,331.7l-0.7,3.1 M-141.4,331.7l0.7,3.1
+					 M-140,331.7l-0.7,3.1 M-139,331.7v3.1 M-139,331.7h1.9 M-139,333.2h1.2 M-139,334.8h1.9 M-136.1,331.7v3.1 M-136.1,331.7h1.3
+					l0.4,0.1l0.1,0.2l0.1,0.3v0.3l-0.1,0.3l-0.1,0.2l-0.4,0.1h-1.3 M-135.1,333.2l1,1.6 M-133.1,335.8h2.7 M-129.4,331.7v3.1
+					 M-129.4,334.8h1.8 M-126.7,331.7v3.1 M-126.7,331.7h1.9 M-126.7,333.2h1.2 M-126.7,334.8h1.9 M-123.8,331.7v3.1 M-123.8,331.7
+					h1l0.4,0.1l0.3,0.3l0.2,0.3l0.1,0.4v0.7l-0.1,0.4l-0.2,0.3l-0.3,0.3l-0.4,0.1h-1"/>
+			</g>
+			<g id="gge3_3" class="st12">
+				<path class="st13" d="M-256.6,222.9v3.1 M-256.6,222.9l1.2,3.1 M-254.3,222.9l-1.2,3.1 M-254.3,222.9v3.1 M-252.3,222.9v3.1
+					 M-253.3,222.9h2.1 M-248.2,223.3l-0.3-0.3l-0.4-0.1h-0.6l-0.4,0.1l-0.3,0.3v0.3l0.1,0.3l0.2,0.2l0.3,0.1l0.9,0.3l0.3,0.1
+					l0.2,0.2l0.1,0.3v0.4l-0.3,0.3l-0.4,0.1h-0.6l-0.4-0.1l-0.3-0.3 M-247.2,223.5l0.3-0.2l0.4-0.4v3.1 M-244.6,222.9l-0.4,0.1
+					l-0.3,0.4l-0.2,0.7v0.4l0.2,0.7l0.3,0.4l0.4,0.1h0.3l0.4-0.1l0.3-0.4l0.2-0.7v-0.4l-0.2-0.7l-0.3-0.4l-0.4-0.1H-244.6
+					 M-242.3,223.6v-0.1l0.2-0.3l0.1-0.2l0.3-0.1h0.6l0.3,0.1l0.1,0.2l0.2,0.3v0.3l-0.2,0.3l-0.3,0.4l-1.5,1.5h2.1"/>
+			</g>
+			<g id="gge5_3">
+				<path class="st14" d="M-256.6,228.5l0.3-0.2l0.4-0.4v3.1"/>
+			</g>
+			<g id="gge25_3" class="st12">
+				<path class="st13" d="M-15.7,222.9v3.1 M-15.7,222.9l1.2,3.1 M-13.3,222.9l-1.2,3.1 M-13.3,222.9v3.1 M-11.3,222.9v3.1
+					 M-12.4,222.9h2.1 M-7.3,223.3l-0.3-0.3l-0.4-0.1h-0.6L-9,223l-0.3,0.3v0.3l0.1,0.3l0.2,0.2l0.3,0.1l0.9,0.3l0.3,0.1l0.2,0.2
+					l0.1,0.3v0.4l-0.3,0.3L-8,226h-0.6l-0.4-0.1l-0.3-0.3 M-6.3,223.5l0.3-0.2l0.4-0.4v3.1 M-3.7,222.9l-0.4,0.1l-0.3,0.4l-0.2,0.7
+					v0.4l0.2,0.7l0.3,0.4l0.4,0.1h0.3l0.4-0.1l0.3-0.4l0.2-0.7v-0.4l-0.2-0.7L-3,223l-0.4-0.1H-3.7 M-1.4,223.6v-0.1l0.2-0.3
+					l0.1-0.2l0.3-0.1h0.6l0.3,0.1l0.1,0.2l0.2,0.3v0.3l-0.2,0.3l-0.3,0.4l-1.5,1.5h2.1"/>
+			</g>
+			<g id="gge27_3">
+				<path class="st14" d="M-15.5,228.7v-0.1l0.2-0.3l0.1-0.2l0.3-0.1h0.6l0.3,0.1l0.1,0.2l0.2,0.3v0.3l-0.2,0.3l-0.3,0.4l-1.5,1.5
+					h2.1"/>
+			</g>
+			<g id="gge94_3" class="st12">
+				<path class="st13" d="M-208.8,344.3h3.1 M-208.8,342.3h3.1 M-207.3,344.3v-2.1 M-206.9,341.3v-1.8h-0.3l-0.3,0.2l-0.1,0.1
+					l-0.2,0.3v0.4l0.2,0.3l0.3,0.3L-206.9,341.3h0.3l0.4-0.2l0.3-0.3l0.1-0.3v-0.4l-0.1-0.3l-0.3-0.3 M-207.8,336.8h2.1
+					 M-207.3,336.8l-0.3,0.3l-0.2,0.3v0.4l0.2,0.3l0.3,0.3l0.4,0.1h0.3l0.4-0.1l0.3-0.3l0.1-0.3v-0.4l-0.1-0.3l-0.3-0.3
+					 M-208.8,334.1h3.1 M-207.3,334.1l-0.3,0.3l-0.2,0.3v0.4l0.2,0.3l0.3,0.3l0.4,0.2h0.3l0.4-0.2l0.3-0.3l0.1-0.3v-0.4l-0.1-0.3
+					l-0.3-0.3 M-206.9,333.1v-1.8h-0.3l-0.3,0.1l-0.1,0.2l-0.2,0.3v0.4l0.2,0.3l0.3,0.3L-206.9,333.1h0.3l0.4-0.1l0.3-0.3l0.1-0.3
+					v-0.4l-0.1-0.3l-0.3-0.3 M-207.8,330.4h2.1 M-206.9,330.4l-0.4-0.2l-0.3-0.3l-0.2-0.3v-0.4 M-207,328.2v-2.6 M-208.8,324.6h3.1
+					 M-208.8,324.6l3.1-1.2 M-208.8,322.2l3.1,1.2 M-208.8,322.2h3.1 M-207.8,319.5h2.1 M-207.3,319.5l-0.3,0.3l-0.2,0.3v0.4
+					l0.2,0.3l0.3,0.3l0.4,0.2h0.3l0.4-0.2l0.3-0.3l0.1-0.3v-0.4l-0.1-0.3l-0.3-0.3 M-208.8,318.5h3.1 M-206.9,317.5v-1.8h-0.3
+					l-0.3,0.1l-0.1,0.2l-0.2,0.3v0.4l0.2,0.3l0.3,0.3L-206.9,317.5h0.3l0.4-0.1l0.3-0.3l0.1-0.3v-0.4l-0.1-0.3l-0.3-0.3 M-207,314.8
+					v-2.6 M-208.1,311h-0.1l-0.3-0.1l-0.2-0.2l-0.1-0.3v-0.6l0.1-0.3l0.2-0.2l0.3-0.1h0.3l0.3,0.1l0.4,0.3l1.5,1.5v-2.1 M-206.4,308
+					l0.2,0.1l0.1-0.1l-0.1-0.2L-206.4,308 M-208.8,305.1v1.5l1.3,0.2l-0.1-0.2l-0.2-0.4v-0.4l0.2-0.4l0.3-0.3l0.4-0.1h0.3l0.4,0.1
+					l0.3,0.3l0.1,0.4v0.4l-0.1,0.4l-0.1,0.2l-0.3,0.1 M-208.8,302.4l2.1,1.5v-2.2 M-208.8,302.4h3.1 M-204.7,300.7V298 M-208.2,297
+					l-0.2-0.3l-0.4-0.4h3.1 M-207.8,295.3l2.1-1.6 M-207.8,293.7l2.1,1.6 M-208.1,292.6h-0.1l-0.3-0.1l-0.2-0.2l-0.1-0.3v-0.6
+					l0.1-0.3l0.2-0.2l0.3-0.1h0.3l0.3,0.1l0.4,0.3l1.5,1.5v-2.1"/>
+			</g>
+			<g id="gge96_3">
+				<path class="st14" d="M-256.6,277.8v3.1 M-256.6,277.8h1.3l0.4,0.1l0.2,0.2l0.1,0.3v0.3l-0.1,0.3l-0.2,0.1l-0.4,0.1
+					 M-256.6,279.3h1.3l0.4,0.2l0.2,0.1l0.1,0.3v0.4l-0.1,0.3l-0.2,0.1l-0.4,0.1h-1.3 M-252.4,277.8l-1.2,3.1 M-252.4,277.8l1.2,3.1
+					 M-253.2,279.9h1.5 M-249.2,277.8v3.1 M-250.3,277.8h2.1 M-246.2,277.8v3.1 M-247.2,277.8h2.1 M-244.2,277.8v3.1 M-244.2,277.8
+					h1.9 M-244.2,279.3h1.2 M-244.2,280.9h1.9 M-241.3,277.8v3.1 M-241.3,277.8h1.3l0.4,0.1l0.1,0.2l0.2,0.3v0.3l-0.2,0.3l-0.1,0.1
+					l-0.4,0.1h-1.3 M-240.3,279.3l1,1.6 M-238.3,277.8l1.2,1.5v1.6 M-235.9,277.8l-1.2,1.5 M-235,282h2.6 M-231.3,277.8v3.1
+					 M-229.3,277.8v3.1 M-231.3,279.3h2.1 M-228.3,277.8v3.1 M-228.3,277.8h1.9 M-228.3,279.3h1.2 M-228.3,280.9h1.9 M-224.2,277.8
+					l-1.2,3.1 M-224.2,277.8l1.2,3.1 M-225,279.9h1.5 M-222.1,277.8v3.1 M-222.1,277.8h1l0.4,0.1l0.3,0.3l0.2,0.3l0.1,0.4v0.7
+					l-0.1,0.4l-0.2,0.3l-0.3,0.3l-0.4,0.1h-1 M-219,277.8v3.1 M-219,277.8h1.9 M-219,279.3h1.2 M-219,280.9h1.9 M-216.2,277.8v3.1
+					 M-216.2,277.8h1.3l0.4,0.1l0.2,0.2l0.1,0.3v0.3l-0.1,0.3l-0.2,0.1l-0.4,0.1h-1.3 M-215.1,279.3l1,1.6"/>
+			</g>
+			<g id="gge117_3" class="st12">
+				<path class="st13" d="M-168.6,356.3v-0.1l0.2-0.3l0.1-0.2l0.3-0.1h0.6l0.3,0.1l0.1,0.2l0.2,0.3v0.3l-0.2,0.3l-0.3,0.4l-1.5,1.5
+					h2.1 M-163.5,356.6v3.1 M-163.5,357l0.3-0.3l0.3-0.2h0.4l0.3,0.2l0.3,0.3l0.2,0.4v0.3l-0.2,0.4l-0.3,0.3l-0.3,0.1h-0.4l-0.3-0.1
+					l-0.3-0.3 M-160.7,355.5l0.1,0.1l0.2-0.1l-0.2-0.2L-160.7,355.5 M-160.6,356.6v2.1 M-159.4,356.6v2.1 M-159.4,357.2l0.4-0.4
+					l0.3-0.2h0.4l0.3,0.2l0.2,0.4v1.5 M-152.8,356l-0.1-0.3l-0.4-0.1h-0.3l-0.4,0.1l-0.3,0.4l-0.1,0.7v0.7l0.1,0.6l0.3,0.3l0.4,0.1
+					h0.2l0.4-0.1l0.3-0.3l0.2-0.4v-0.2l-0.2-0.4l-0.3-0.3l-0.4-0.1h-0.2l-0.4,0.1l-0.3,0.3l-0.1,0.4 M-151.7,356.6v2.1
+					 M-151.7,357.2l0.4-0.4l0.3-0.2h0.4l0.3,0.2l0.2,0.4v1.5 M-150.1,357.2l0.4-0.4l0.3-0.2h0.4l0.3,0.2l0.2,0.4v1.5 M-147.5,356.6
+					v2.1 M-147.5,357.2l0.4-0.4l0.3-0.2h0.4l0.3,0.2l0.2,0.4v1.5 M-145.9,357.2l0.4-0.4l0.3-0.2h0.4l0.3,0.2l0.2,0.4v1.5"/>
+			</g>
+			<g id="gge119_3">
+				<path class="st14" d="M-180.1,360v3.1 M-180.1,360h1.3l0.4,0.1l0.2,0.2l0.1,0.3v0.3l-0.1,0.3l-0.2,0.1l-0.4,0.1 M-180.1,361.5
+					h1.3l0.4,0.2l0.2,0.1l0.1,0.3v0.4l-0.1,0.3l-0.2,0.1l-0.4,0.1h-1.3 M-177.1,360v2.2l0.2,0.4l0.3,0.3l0.4,0.1h0.3l0.4-0.1
+					l0.3-0.3l0.2-0.4V360 M-173,360v3.1 M-174,360h2.1 M-170,360v3.1 M-171,360h2.1 M-167.1,360l-0.3,0.1l-0.3,0.3l-0.1,0.3
+					l-0.2,0.4v0.7l0.2,0.4l0.1,0.3l0.3,0.3l0.3,0.1h0.6l0.3-0.1l0.3-0.3l0.1-0.3l0.2-0.4v-0.7l-0.2-0.4l-0.1-0.3l-0.3-0.3l-0.3-0.1
+					H-167.1 M-164.6,360v3.1 M-164.6,360l2.1,3.1 M-162.6,360v3.1 M-161.6,364.2h2.6 M-158,360.6l0.3-0.2l0.4-0.4v3.1"/>
+			</g>
+			<g id="gge134_3" class="st12">
+				<path class="st13" d="M-136,356.3v-0.1l0.2-0.3l0.1-0.2l0.3-0.1h0.6l0.3,0.1l0.1,0.2l0.2,0.3v0.3l-0.2,0.3l-0.3,0.4l-1.5,1.5
+					h2.1 M-130.9,356.6v3.1 M-130.9,357l0.3-0.3l0.3-0.2h0.4l0.3,0.2l0.3,0.3l0.2,0.4v0.3l-0.2,0.4l-0.3,0.3l-0.3,0.1h-0.4l-0.3-0.1
+					l-0.3-0.3 M-128.1,355.5l0.1,0.1l0.2-0.1l-0.2-0.2L-128.1,355.5 M-128,356.6v2.1 M-126.9,356.6v2.1 M-126.9,357.2l0.4-0.4
+					l0.3-0.2h0.4l0.3,0.2l0.2,0.4v1.5 M-120.2,356l-0.1-0.3l-0.4-0.1h-0.3l-0.4,0.1l-0.3,0.4l-0.1,0.7v0.7l0.1,0.6l0.3,0.3l0.4,0.1
+					h0.2l0.4-0.1l0.3-0.3l0.2-0.4v-0.2l-0.2-0.4l-0.3-0.3l-0.4-0.1h-0.2l-0.4,0.1l-0.3,0.3l-0.1,0.4 M-119.1,356.6v2.1
+					 M-119.1,357.2l0.4-0.4l0.3-0.2h0.4l0.3,0.2l0.2,0.4v1.5 M-117.5,357.2l0.4-0.4l0.3-0.2h0.4l0.3,0.2l0.2,0.4v1.5 M-114.9,356.6
+					v2.1 M-114.9,357.2l0.4-0.4l0.3-0.2h0.4l0.3,0.2l0.2,0.4v1.5 M-113.3,357.2l0.4-0.4l0.3-0.2h0.4l0.3,0.2l0.2,0.4v1.5"/>
+			</g>
+			<g id="gge136_3">
+				<path class="st14" d="M-146.1,360v3.1 M-146.1,360h1.3l0.4,0.1l0.2,0.2l0.1,0.3v0.3l-0.1,0.3l-0.2,0.1l-0.4,0.1 M-146.1,361.5
+					h1.3l0.4,0.2l0.2,0.1l0.1,0.3v0.4l-0.1,0.3l-0.2,0.1l-0.4,0.1h-1.3 M-143.1,360v2.2l0.2,0.4l0.3,0.3l0.4,0.1h0.3l0.4-0.1
+					l0.3-0.3l0.2-0.4V360 M-139,360v3.1 M-140,360h2.1 M-136,360v3.1 M-137,360h2.1 M-133.1,360l-0.3,0.1l-0.3,0.3l-0.1,0.3
+					l-0.2,0.4v0.7l0.2,0.4l0.1,0.3l0.3,0.3l0.3,0.1h0.6l0.3-0.1l0.3-0.3l0.1-0.3l0.2-0.4v-0.7l-0.2-0.4l-0.1-0.3l-0.3-0.3l-0.3-0.1
+					H-133.1 M-130.6,360v3.1 M-130.6,360l2.1,3.1 M-128.6,360v3.1 M-127.6,364.2h2.6 M-123.8,360.8v-0.1l0.1-0.3l0.2-0.2l0.3-0.1
+					h0.6l0.3,0.1l0.2,0.2l0.1,0.3v0.3l-0.1,0.3l-0.3,0.4l-1.5,1.5h2.1"/>
+			</g>
+			<g id="gge151_3" class="st12">
+				<path class="st13" d="M-103.4,356.3v-0.1l0.2-0.3l0.1-0.2l0.3-0.1h0.6l0.3,0.1l0.1,0.2l0.2,0.3v0.3l-0.2,0.3l-0.3,0.4l-1.5,1.5
+					h2.1 M-98.3,356.6v3.1 M-98.3,357l0.3-0.3l0.3-0.2h0.4l0.3,0.2l0.3,0.3l0.2,0.4v0.3l-0.2,0.4l-0.3,0.3l-0.3,0.1h-0.4l-0.3-0.1
+					l-0.3-0.3 M-95.5,355.5l0.1,0.1l0.2-0.1l-0.2-0.2L-95.5,355.5 M-95.4,356.6v2.1 M-94.3,356.6v2.1 M-94.3,357.2l0.4-0.4l0.3-0.2
+					h0.4l0.3,0.2l0.2,0.4v1.5 M-87.6,356l-0.1-0.3l-0.4-0.1h-0.3l-0.4,0.1l-0.3,0.4l-0.1,0.7v0.7l0.1,0.6l0.3,0.3l0.4,0.1h0.2
+					l0.4-0.1l0.3-0.3l0.2-0.4v-0.2l-0.2-0.4l-0.3-0.3l-0.4-0.1h-0.2l-0.4,0.1l-0.3,0.3l-0.1,0.4 M-86.5,356.6v2.1 M-86.5,357.2
+					l0.4-0.4l0.3-0.2h0.4l0.3,0.2l0.2,0.4v1.5 M-84.9,357.2l0.4-0.4l0.3-0.2h0.4l0.3,0.2l0.2,0.4v1.5 M-82.3,356.6v2.1 M-82.3,357.2
+					l0.4-0.4l0.3-0.2h0.4l0.3,0.2l0.2,0.4v1.5 M-80.7,357.2l0.4-0.4l0.3-0.2h0.4l0.3,0.2l0.2,0.4v1.5"/>
+			</g>
+			<g id="gge153_3">
+				<path class="st14" d="M-114.9,360v3.1 M-114.9,360h1.3l0.4,0.1l0.2,0.2l0.1,0.3v0.3l-0.1,0.3l-0.2,0.1l-0.4,0.1 M-114.9,361.5
+					h1.3l0.4,0.2l0.2,0.1l0.1,0.3v0.4l-0.1,0.3l-0.2,0.1l-0.4,0.1h-1.3 M-111.9,360v2.2l0.2,0.4l0.3,0.3l0.4,0.1h0.3l0.4-0.1
+					l0.3-0.3l0.2-0.4V360 M-107.8,360v3.1 M-108.8,360h2.1 M-104.8,360v3.1 M-105.8,360h2.1 M-101.9,360l-0.3,0.1l-0.3,0.3l-0.1,0.3
+					l-0.2,0.4v0.7l0.2,0.4l0.1,0.3l0.3,0.3l0.3,0.1h0.6l0.3-0.1l0.3-0.3l0.1-0.3l0.2-0.4v-0.7l-0.2-0.4l-0.1-0.3l-0.3-0.3l-0.3-0.1
+					H-101.9 M-99.4,360v3.1 M-99.4,360l2.1,3.1 M-97.4,360v3.1 M-96.4,364.2h2.6 M-92.5,360h1.6l-0.9,1.2h0.4l0.3,0.1l0.1,0.1
+					l0.2,0.4v0.3l-0.2,0.4l-0.3,0.3l-0.4,0.1H-92l-0.4-0.1l-0.1-0.1l-0.2-0.3"/>
+			</g>
+			<g id="gge207_3" class="st12">
+				<path class="st13" d="M-65.9,274.7l0.3-0.2l0.4-0.4v3.1 M-63.3,274.1l-0.4,0.1l-0.3,0.4l-0.2,0.7v0.4l0.2,0.7l0.3,0.4l0.4,0.1
+					h0.3l0.4-0.1l0.3-0.4l0.2-0.7v-0.4l-0.2-0.7l-0.3-0.4l-0.4-0.1H-63.3 M-61.2,275.1v1.5l0.1,0.4l0.3,0.1h0.4l0.3-0.1l0.4-0.4
+					 M-59.6,275.1v2.1"/>
+			</g>
+			<g id="gge209_3">
+				<path class="st14" d="M-95.1,277.8v3.1 M-95.1,277.8h1l0.4,0.1l0.3,0.3l0.2,0.3l0.1,0.4v0.7l-0.1,0.4l-0.2,0.3l-0.3,0.3
+					l-0.4,0.1h-1 M-92,277.8v3.1 M-92,277.8h1.9 M-92,279.3h1.2 M-92,280.9h1.9 M-86.9,278.6l-0.1-0.3l-0.3-0.3l-0.3-0.1h-0.6
+					l-0.3,0.1l-0.3,0.3l-0.1,0.3l-0.2,0.4v0.7l0.2,0.4l0.1,0.3l0.3,0.3l0.3,0.1h0.6l0.3-0.1l0.3-0.3l0.1-0.3 M-85.1,277.8l-0.3,0.1
+					l-0.3,0.3l-0.1,0.3L-86,279v0.7l0.2,0.4l0.1,0.3l0.3,0.3l0.3,0.1h0.6l0.3-0.1l0.3-0.3l0.2-0.3l0.1-0.4V279l-0.1-0.4l-0.2-0.3
+					l-0.3-0.3l-0.3-0.1H-85.1 M-82.6,277.8v2.2l0.2,0.4l0.3,0.3l0.4,0.1h0.3l0.4-0.1l0.3-0.3l0.2-0.4v-2.2 M-79.6,277.8v3.1
+					 M-79.6,277.8h1.3l0.4,0.1l0.2,0.2l0.1,0.3v0.4l-0.1,0.3l-0.2,0.1l-0.4,0.2h-1.3 M-76.6,277.8v3.1 M-76.6,280.9h1.8
+					 M-73.8,277.8v3.1 M-72.8,277.8v3.1 M-72.8,277.8l2.1,3.1 M-70.8,277.8v3.1 M-67.6,278.6l-0.2-0.3l-0.3-0.3l-0.3-0.1h-0.6
+					l-0.3,0.1l-0.3,0.3l-0.2,0.3l-0.1,0.4v0.7l0.1,0.4l0.2,0.3l0.3,0.3l0.3,0.1h0.6l0.3-0.1l0.3-0.3l0.2-0.3v-0.4 M-68.3,279.8h0.7
+					 M-66.6,282h2.6 M-60.8,278.6l-0.2-0.3l-0.3-0.3l-0.3-0.1h-0.6l-0.3,0.1l-0.3,0.3l-0.2,0.3L-63,279v0.7l0.1,0.4l0.2,0.3l0.3,0.3
+					l0.3,0.1h0.6l0.3-0.1l0.3-0.3l0.2-0.3 M-58.7,277.8l-1.2,3.1 M-58.7,277.8l1.2,3.1 M-59.4,279.9h1.5 M-56.5,277.8v3.1
+					 M-56.5,277.8h1.3l0.4,0.1l0.2,0.2l0.1,0.3v0.4l-0.1,0.3l-0.2,0.1l-0.4,0.2h-1.3 M-52.3,277.8l-1.2,3.1 M-52.3,277.8l1.2,3.1
+					 M-53,279.9h1.5 M-47.9,278.6l-0.1-0.3l-0.3-0.3l-0.3-0.1h-0.6l-0.3,0.1l-0.3,0.3l-0.2,0.3l-0.1,0.4v0.7l0.1,0.4l0.2,0.3
+					l0.3,0.3l0.3,0.1h0.6l0.3-0.1l0.3-0.3l0.1-0.3 M-47,277.8v3.1 M-45,277.8v3.1 M-46,277.8h2.1 M-42.1,277.8l-0.3,0.1l-0.3,0.3
+					l-0.2,0.3L-43,279v0.7l0.1,0.4l0.2,0.3l0.3,0.3l0.3,0.1h0.6l0.3-0.1l0.3-0.3l0.2-0.3l0.1-0.4V279l-0.1-0.4l-0.2-0.3l-0.3-0.3
+					l-0.3-0.1H-42.1 M-39.6,277.8v3.1 M-39.6,277.8h1.3l0.4,0.1l0.1,0.2l0.1,0.3v0.3l-0.1,0.3l-0.1,0.1l-0.4,0.1h-1.3 M-38.6,279.3
+					l1,1.6"/>
+			</g>
+			<g id="gge233_3" class="st12">
+				<path class="st13" d="M-189.8,328.2l-1.2,3.1 M-189.8,328.2l1.2,3.1 M-190.6,330.3h1.5 M-187.7,329.3v2.1 M-187.7,330.2l0.2-0.4
+					l0.3-0.3l0.3-0.2h0.4 M-183.7,328.2v3.1 M-183.7,329.7l-0.3-0.3l-0.3-0.2h-0.4l-0.3,0.2l-0.3,0.3l-0.1,0.4v0.3l0.1,0.4l0.3,0.3
+					l0.3,0.1h0.4l0.3-0.1l0.3-0.3 M-182.8,329.3v1.5l0.2,0.4l0.3,0.1h0.4l0.3-0.1l0.4-0.4 M-181.2,329.3v2.1 M-180.2,328.2l0.2,0.1
+					l0.1-0.1l-0.1-0.2L-180.2,328.2 M-180,329.3v2.1 M-178.9,329.3v2.1 M-178.9,329.9l0.4-0.4l0.3-0.2h0.4l0.3,0.2l0.1,0.4v1.5
+					 M-175.6,329.3l-0.3,0.2l-0.3,0.3l-0.2,0.4v0.3l0.2,0.4l0.3,0.3l0.3,0.1h0.4l0.3-0.1l0.3-0.3l0.1-0.4v-0.3l-0.1-0.4l-0.3-0.3
+					l-0.3-0.2H-175.6 M-173.4,332.4h2.6 M-169.8,328.2v3.1 M-169.8,328.2l2.1,3.1 M-167.7,328.2v3.1 M-165,329.3v2.1 M-165,329.7
+					l-0.3-0.3l-0.3-0.2h-0.4l-0.3,0.2l-0.3,0.3l-0.1,0.4v0.3l0.1,0.4l0.3,0.3l0.3,0.1h0.4l0.3-0.1l0.3-0.3 M-164,329.3v2.1
+					 M-164,329.9l0.4-0.4l0.3-0.2h0.4l0.3,0.2l0.1,0.4v1.5 M-160.7,329.3l-0.3,0.2l-0.3,0.3l-0.2,0.4v0.3l0.2,0.4l0.3,0.3l0.3,0.1
+					h0.4l0.3-0.1l0.3-0.3l0.1-0.4v-0.3l-0.1-0.4l-0.3-0.3l-0.3-0.2H-160.7"/>
+			</g>
+			<g id="gge235_3">
+				<path class="st14" d="M-159.5,327.2v-3.1 M-160.5,327.2v-3.1 M-160.5,327.2l-2.1-3.1 M-162.6,327.2v-3.1 M-163.5,327.2v-3.1
+					 M-163.5,327.2l-2.1-3.1 M-165.6,327.2v-3.1 M-166.6,327.2v-3.1 M-166.6,327.2h-1.9 M-166.6,325.7h-1.2 M-166.6,324.1h-1.9
+					 M-169.5,327.2v-3.1 M-169.5,327.2h-1.3l-0.4-0.1l-0.2-0.2l-0.1-0.3v-0.3l0.1-0.3l0.2-0.1l0.4-0.1h1.3 M-170.5,325.7l-1-1.6
+					 M-172.5,323.1h-2.6 M-176.1,327.2V325l-0.2-0.4l-0.3-0.3l-0.4-0.1h-0.3l-0.4,0.1l-0.3,0.3l-0.2,0.4v2.2 M-179.2,327.2v-3.1
+					 M-179.2,327.2l-2.1-3.1 M-181.2,327.2v-3.1 M-182.2,327.2v-3.1 M-184.2,327.2v-3.1 M-183.2,327.2h-2.1"/>
+			</g>
+			<g id="gge423_3" class="st12">
+				<path class="st13" d="M-223.2,309.8v2.4l-0.2,0.4l-0.1,0.1l-0.3,0.1h-0.3l-0.3-0.1l-0.2-0.1l-0.1-0.4v-0.3 M-221.4,309.8
+					l-0.3,0.1l-0.3,0.3l-0.1,0.3l-0.1,0.4v0.7l0.1,0.4l0.1,0.3l0.3,0.3l0.3,0.1h0.6l0.3-0.1l0.3-0.3l0.1-0.3l0.2-0.4V311l-0.2-0.4
+					l-0.1-0.3l-0.3-0.3l-0.3-0.1H-221.4 M-218.9,309.8l1.2,1.5v1.6 M-216.6,309.8l-1.2,1.5 M-213.5,310.2l-0.3-0.3l-0.4-0.1h-0.6
+					l-0.4,0.1l-0.3,0.3v0.3l0.2,0.3l0.1,0.2l0.3,0.1l0.9,0.3l0.3,0.1l0.1,0.2l0.1,0.3v0.4l-0.3,0.3l-0.4,0.1h-0.6l-0.4-0.1l-0.3-0.3
+					 M-211.5,309.8v3.1 M-212.6,309.8h2.1 M-209.5,309.8v3.1 M-206.3,310.5l-0.2-0.3l-0.3-0.3l-0.3-0.1h-0.6l-0.3,0.1l-0.3,0.3
+					l-0.2,0.3l-0.1,0.4v0.7l0.1,0.4l0.2,0.3l0.3,0.3l0.3,0.1h0.6l0.3-0.1l0.3-0.3l0.2-0.3 M-205.4,309.8v3.1 M-203.3,309.8l-2.1,2.1
+					 M-204.6,311.1l1.3,1.8"/>
+			</g>
+			<g id="gge425_3">
+				<path class="st14" d="M-236.8,314.7v3.1 M-236.8,317.8h1.8 M-234.1,314.7v3.1 M-234.1,314.7h1.9 M-234.1,316.2h1.2
+					 M-234.1,317.8h1.9 M-231.2,314.7v3.1 M-231.2,314.7h1.9 M-231.2,316.2h1.2 M-227.2,314.7v3.1 M-228.3,314.7h2.1 M-225.2,318.8
+					h2.6 M-221.6,314.7v3.1 M-219.6,314.7v3.1 M-221.6,316.2h2.1 M-217.4,314.7l-1.2,3.1 M-217.4,314.7l1.2,3.1 M-218.1,316.8h1.5
+					 M-215.3,314.7v3.1 M-215.3,314.7l2.1,3.1 M-213.2,314.7v3.1 M-212.2,314.7v3.1 M-212.2,314.7h1l0.4,0.1l0.3,0.3l0.2,0.3
+					l0.1,0.4v0.7l-0.1,0.4l-0.2,0.3l-0.3,0.3l-0.4,0.1h-1"/>
+			</g>
+			<g id="gge566_3" class="st12">
+				<path class="st13" d="M-46,309.8v2.4l-0.2,0.4l-0.1,0.1l-0.3,0.1h-0.3l-0.3-0.1l-0.2-0.1l-0.1-0.4v-0.3 M-44.2,309.8l-0.3,0.1
+					l-0.3,0.3l-0.1,0.3l-0.1,0.4v0.7l0.1,0.4l0.1,0.3l0.3,0.3l0.3,0.1h0.6l0.3-0.1l0.3-0.3l0.1-0.3l0.2-0.4V311l-0.2-0.4l-0.1-0.3
+					l-0.3-0.3l-0.3-0.1H-44.2 M-41.7,309.8l1.2,1.5v1.6 M-39.4,309.8l-1.2,1.5 M-36.4,310.2l-0.3-0.3l-0.4-0.1h-0.6l-0.4,0.1
+					l-0.3,0.3v0.3l0.2,0.3l0.1,0.2l0.3,0.1l0.9,0.3l0.3,0.1l0.1,0.2l0.1,0.3v0.4l-0.3,0.3l-0.4,0.1h-0.6l-0.4-0.1l-0.3-0.3
+					 M-34.4,309.8v3.1 M-35.4,309.8h2.1 M-32.4,309.8v3.1 M-29.2,310.5l-0.2-0.3l-0.3-0.3l-0.3-0.1h-0.6l-0.3,0.1l-0.3,0.3l-0.2,0.3
+					l-0.1,0.4v0.7l0.1,0.4l0.2,0.3l0.3,0.3l0.3,0.1h0.6l0.3-0.1l0.3-0.3l0.2-0.3 M-28.2,309.8v3.1 M-26.1,309.8l-2.1,2.1
+					 M-27.5,311.1l1.3,1.8"/>
+			</g>
+			<g id="gge568_3">
+				<path class="st14" d="M-61,314.7v3.1 M-61,314.7h1.3l0.4,0.1l0.2,0.2l0.1,0.3v0.3l-0.1,0.3l-0.2,0.1l-0.4,0.1H-61 M-60,316.2
+					l1,1.6 M-58,314.7v3.1 M-54.8,315.4l-0.1-0.3l-0.3-0.3l-0.3-0.1h-0.6l-0.3,0.1l-0.3,0.3l-0.1,0.3l-0.2,0.4v0.7l0.2,0.4l0.1,0.3
+					l0.3,0.3l0.3,0.1h0.6l0.3-0.1l0.3-0.3l0.1-0.3v-0.4 M-55.6,316.6h0.7 M-53.9,314.7v3.1 M-51.8,314.7v3.1 M-53.9,316.2h2.1
+					 M-49.8,314.7v3.1 M-50.8,314.7h2.1 M-47.8,318.8h2.6 M-44.2,314.7v3.1 M-42.1,314.7v3.1 M-44.2,316.2h2.1 M-40,314.7l-1.2,3.1
+					 M-40,314.7l1.2,3.1 M-40.7,316.8h1.5 M-37.8,314.7v3.1 M-37.8,314.7l2.1,3.1 M-35.7,314.7v3.1 M-34.8,314.7v3.1 M-34.8,314.7h1
+					l0.4,0.1l0.3,0.3l0.1,0.3l0.1,0.4v0.7l-0.1,0.4l-0.1,0.3l-0.3,0.3l-0.4,0.1h-1"/>
+			</g>
+			<g id="gge691_3" class="st12">
+				<path class="st13" d="M-108.9,168.4v3.1 M-108.9,168.4l2.1,3.1 M-106.8,168.4v3.1 M-105.9,168.4v3.1 M-105.9,168.4h1.3l0.4,0.1
+					l0.1,0.2l0.2,0.3v0.3l-0.2,0.3l-0.1,0.1l-0.4,0.1h-1.3 M-104.8,169.9l1,1.6 M-102.8,168.4v3.1 M-102.8,168.4h1.9 M-102.8,169.9
+					h1.2 M-99.8,169.1V169l0.2-0.3l0.1-0.2l0.3-0.1h0.6l0.3,0.1l0.1,0.2l0.2,0.3v0.3l-0.2,0.3l-0.3,0.4l-1.5,1.5h2.1 M-95.4,168.4
+					l-1.5,2.1h2.2 M-95.4,168.4v3.1 M-93.7,168.4v3.1 M-93.7,171.5h1.8 M-90.1,168.4l-0.4,0.1l-0.3,0.4l-0.2,0.7v0.4l0.2,0.7
+					l0.3,0.4l0.4,0.1h0.3l0.4-0.1l0.3-0.4l0.2-0.7v-0.4l-0.2-0.7l-0.3-0.4l-0.4-0.1H-90.1 M-87.9,169l0.3-0.2l0.4-0.4v3.1"/>
+			</g>
+			<g id="gge693_3">
+				<path class="st14" d="M-108.9,173.4v2.2l0.1,0.4l0.3,0.3l0.4,0.1h0.3l0.4-0.1l0.3-0.3l0.1-0.4v-2.2 M-105.9,174l0.3-0.2l0.4-0.4
+					v3.1"/>
+			</g>
+			<g id="gge707_3">
+				<path class="st15" d="M-120,316.4l-0.2,0.1l-0.2,0.2l-0.1,0.2v0.4l0.1,0.2l0.2,0.2l0.2,0.1l0.3,0.1h0.5l0.3-0.1l0.2-0.1l0.2-0.2
+					l0.1-0.2v-0.4l-0.1-0.2l-0.2-0.2l-0.2-0.1h-0.3 M-119.2,316.9v-0.5 M-120.5,315.7h2.1 M-120.5,315.7l2.1-1.4 M-120.5,314.3h2.1
+					 M-120.5,313.7h2.1 M-120.5,313.7V313l0.1-0.3l0.2-0.2l0.2-0.1l0.3-0.1h0.5l0.3,0.1l0.2,0.1l0.2,0.2l0.1,0.3v0.7"/>
+			</g>
+			<g id="gge709_3">
+				<path class="st15" d="M-112.8,314.4l-0.2,0.1l-0.2,0.2l-0.1,0.2v0.4l0.1,0.2l0.2,0.2l0.2,0.1l0.3,0.1h0.5l0.3-0.1l0.2-0.1
+					l0.2-0.2l0.1-0.2v-0.4l-0.1-0.2l-0.2-0.2l-0.2-0.1 M-113.3,313.8h2.1 M-113.3,313.8v-1.3 M-112.3,313.8V313 M-111.2,313.8v-1.3"
+					/>
+			</g>
+			<g id="gge711_3">
+				<path class="st15" d="M-105.8,316.5l-0.2,0.2l-0.1,0.3v0.4l0.1,0.3l0.2,0.2h0.2l0.2-0.1l0.1-0.1l0.1-0.2l0.2-0.6l0.1-0.2
+					l0.1-0.1l0.2-0.1h0.3l0.2,0.2l0.1,0.3v0.4l-0.1,0.3l-0.2,0.2 M-105.6,314.4l-0.2,0.1l-0.2,0.2l-0.1,0.2v0.4l0.1,0.2l0.2,0.2
+					l0.2,0.1l0.3,0.1h0.5l0.3-0.1l0.2-0.1l0.2-0.2l0.1-0.2v-0.4l-0.1-0.2l-0.2-0.2l-0.2-0.1 M-106.1,313.8h2.1 M-106.1,312.4
+					l1.4,1.4 M-105.2,313.3l1.2-0.9"/>
+			</g>
+			<g id="gge713_3">
+				<path class="st15" d="M-98.9,318.5h2.1 M-98.9,318.5l2.1-0.8 M-98.9,317l2.1,0.8 M-98.9,317h2.1 M-98.9,316.3h2.1 M-98.6,314.3
+					l-0.2,0.2l-0.1,0.3v0.4l0.1,0.3l0.2,0.2h0.2l0.2-0.1l0.1-0.1l0.1-0.2l0.2-0.6l0.1-0.2l0.1-0.1l0.2-0.1h0.3l0.2,0.2l0.1,0.3v0.4
+					l-0.1,0.3l-0.2,0.2 M-98.9,313.1l0.1,0.2l0.2,0.2l0.2,0.1l0.3,0.1h0.5l0.3-0.1l0.2-0.1l0.2-0.2l0.1-0.2v-0.4l-0.1-0.2l-0.2-0.2
+					l-0.2-0.1l-0.3-0.1h-0.5l-0.3,0.1l-0.2,0.1l-0.2,0.2l-0.1,0.2V313.1"/>
+			</g>
+			<g id="gge715_3">
+				<path class="st15" d="M-120.5,295.1l2.1-0.8 M-120.5,293.5l2.1,0.8 M-120,291.4l-0.2,0.1l-0.2,0.2l-0.1,0.2v0.4l0.1,0.2l0.2,0.2
+					l0.2,0.1l0.3,0.1h0.5l0.3-0.1l0.2-0.1l0.2-0.2l0.1-0.2v-0.4l-0.1-0.2l-0.2-0.2l-0.2-0.1 M-120,289.3l-0.2,0.1l-0.2,0.2l-0.1,0.2
+					v0.4l0.1,0.2l0.2,0.2l0.2,0.1l0.3,0.1h0.5l0.3-0.1l0.2-0.1l0.2-0.2l0.1-0.2v-0.4l-0.1-0.2l-0.2-0.2l-0.2-0.1"/>
+			</g>
+			<g id="gge717_3">
+				<path class="st15" d="M-112.8,293.6l-0.2,0.1l-0.2,0.2l-0.1,0.2v0.4l0.1,0.2l0.2,0.2l0.2,0.1l0.3,0.1h0.5l0.3-0.1l0.2-0.1
+					l0.2-0.2l0.1-0.2v-0.4l-0.1-0.2l-0.2-0.2l-0.2-0.1 M-113,291.6l-0.2,0.2l-0.1,0.3v0.4l0.1,0.3l0.2,0.2h0.2l0.2-0.1l0.1-0.1
+					l0.1-0.2l0.2-0.6l0.1-0.2l0.1-0.1l0.2-0.1h0.3l0.2,0.2l0.1,0.3v0.4l-0.1,0.3l-0.2,0.2 M-113.3,290.9h2.1 M-113.3,290.9l2.1-1.4
+					 M-113.3,289.6h2.1"/>
+			</g>
+			<g id="gge719_3">
+				<path class="st15" d="M-106.1,295.1h2.1 M-106.1,295.1l2.1-0.8 M-106.1,293.5l2.1,0.8 M-106.1,293.5h2.1 M-106.1,292.3l0.1,0.2
+					l0.2,0.2l0.2,0.1l0.3,0.1h0.5l0.3-0.1l0.2-0.1l0.2-0.2l0.1-0.2v-0.4l-0.1-0.2l-0.2-0.2l-0.2-0.1l-0.3-0.1h-0.5l-0.3,0.1
+					l-0.2,0.1l-0.2,0.2l-0.1,0.2V292.3 M-105.8,289.3l-0.2,0.2l-0.1,0.3v0.4l0.1,0.3l0.2,0.2h0.2l0.2-0.1l0.1-0.1l0.1-0.2l0.2-0.6
+					l0.1-0.2l0.1-0.1l0.2-0.1h0.3l0.2,0.2l0.1,0.3v0.4l-0.1,0.3l-0.2,0.2 M-106.1,288.6h2.1"/>
+			</g>
+			<g id="gge721_3">
+				<path class="st15" d="M-98.9,295.1h2.1 M-98.9,294.4h2.1 M-98.9,294.4v-0.9l0.1-0.3l0.1-0.1l0.2-0.1h0.2l0.2,0.1l0.1,0.1
+					l0.1,0.3v0.9 M-97.9,293.7l1.1-0.7 M-98.9,291.8l0.1,0.2l0.2,0.2l0.2,0.1l0.3,0.1h0.5l0.3-0.1l0.2-0.1l0.2-0.2l0.1-0.2v-0.4
+					l-0.1-0.2l-0.2-0.2l-0.2-0.1l-0.3-0.1h-0.5l-0.3,0.1l-0.2,0.1l-0.2,0.2l-0.1,0.2V291.8 M-97.2,291.5l0.6-0.6"/>
+			</g>
+			<g id="gge723_3">
+				<path class="st16" d="M-114.9,275h4.9 M-114.9,275l4.9-3.2 M-114.9,271.7h4.9 M-114.9,270.2h4.9 M-114.9,270.2v-2.1l0.2-0.7
+					l0.2-0.2l0.5-0.2h0.5l0.5,0.2l0.2,0.2l0.2,0.7v2.1 M-112.6,268.6l2.5-1.6 M-114.9,265.4h4.9 M-114.9,265.4v-3 M-112.6,265.4
+					v-1.9 M-113.7,260.7h-0.2l-0.5-0.2l-0.2-0.2l-0.2-0.5v-0.9l0.2-0.5l0.2-0.2l0.5-0.2h0.5l0.5,0.2l0.7,0.5l2.3,2.3v-3.2
+					 M-114.9,253.8l3.2,2.3v-3.5 M-114.9,253.8h4.9 M-114.9,251.1h4.9 M-110,251.1v-2.8 M-114.9,245.4l0.2,0.7l0.7,0.5l1.2,0.2h0.7
+					l1.2-0.2l0.7-0.5l0.2-0.7v-0.5l-0.2-0.7l-0.7-0.5l-1.2-0.2h-0.7l-1.2,0.2l-0.7,0.5l-0.2,0.7V245.4 M-114,242l-0.2-0.5l-0.7-0.7
+					h4.9 M-114.2,237.2h4.2 M-112.1,239.3v-4.2 M-106.9,275h4.9 M-106.9,275v-2.1l0.2-0.7l0.2-0.2l0.5-0.2h0.7l0.5,0.2l0.2,0.2
+					l0.2,0.7v2.1 M-106.9,268.4l4.9,1.9 M-106.9,268.4l4.9-1.9 M-103.7,269.5v-2.3 M-106.9,261.4h4.9 M-102,261.4v-2.8
+					 M-106.9,257.1h4.9 M-106.9,257.1l4.9-3.2 M-106.9,253.8h4.9 M-106.9,250.5l4.9,1.9 M-106.9,250.5l4.9-1.9 M-103.7,251.6v-2.3"
+					/>
+			</g>
+			<circle id="gge2391_3" class="st17" cx="-214.2" cy="251.5" r="9.4"/>
+			<circle id="gge2445_3" class="st17" cx="-57.3" cy="251.5" r="9.4"/>
+			<circle id="gge121_3" class="st17" cx="-168.8" cy="374.7" r="9.7"/>
+			<circle id="gge138_3" class="st17" cx="-136.2" cy="374.7" r="9.7"/>
+			<circle id="gge155_3" class="st17" cx="-103.6" cy="374.7" r="9.7"/>
+			<circle id="gge213_3" class="st18" cx="-65.3" cy="291" r="7.1"/>
+			<circle id="gge237_3" class="st17" cx="-142.3" cy="315.6" r="1.8"/>
+			<circle id="gge447_3" class="st17" cx="-224.7" cy="358.4" r="1.8"/>
+			<circle id="gge590_3" class="st17" cx="-47.5" cy="358.4" r="1.8"/>
+			<path id="gge1996_3" class="st17" d="M-132.6,348.6c2.4-2,2.8-5.6,0.8-8c-2-2.4-5.6-2.8-8-0.8c-2.4,2-2.8,5.6-0.8,8
+				c0.2,0.3,0.5,0.6,0.8,0.8"/>
+			<path id="gge214_3" class="st19" d="M-60.2,286.4c2.6,2.5,2.7,6.6,0.2,9.2c-0.1,0.1-0.1,0.1-0.2,0.2V286.4z"/>
+		</g>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_3_" filterUnits="userSpaceOnUse" x="-270.8" y="198.9" width="269.3" height="198.4">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="-270.8" y="198.9" width="269.3" height="198.4" id="bottomBoardSolderMask">
+			<path class="st20" d="M-270.8,397.3V198.9H-1.5v198.4H-270.8z"/>
+			<g>
+				<ellipse cx="-221.4" cy="265.9" rx="3.3" ry="3.3"/>
+				<ellipse cx="-214.2" cy="237.1" rx="3.3" ry="3.3"/>
+				<ellipse cx="-207.7" cy="265.9" rx="3.3" ry="3.3"/>
+				<ellipse cx="-46.9" cy="277.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-46.9" cy="307" rx="2.3" ry="2.3"/>
+				<ellipse cx="-64.5" cy="265.9" rx="3.3" ry="3.3"/>
+				<ellipse cx="-57.3" cy="237.1" rx="3.3" ry="3.3"/>
+				<ellipse cx="-50.8" cy="265.9" rx="3.3" ry="3.3"/>
+				<ellipse cx="-136.2" cy="340.2" rx="2.6" ry="2.6"/>
+				<ellipse cx="-136.2" cy="347.4" rx="2.6" ry="2.6"/>
+				<path d="M-259.5,241.1c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-259.5z"
+					/>
+				<path d="M-259.5,254.5c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-259.5z"
+					/>
+				<path d="M-259.5,267.8c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-259.5z"
+					/>
+				<path d="M-18.5,241.1c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-18.5z"/>
+				<path d="M-18.5,254.5c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-18.5z"/>
+				<path d="M-18.5,267.8c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-18.5z"/>
+				<ellipse cx="-217.7" cy="294.6" rx="2.7" ry="2.7"/>
+				<polygon points="-220.4,290.1 -220.4,284.7 -215,284.7 -215,290.1 				"/>
+				<ellipse cx="-176" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-161.2" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-143.4" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-128.6" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-110.8" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-96" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-68.1" cy="291" rx="2" ry="2"/>
+				<ellipse cx="-62.5" cy="291" rx="2" ry="2"/>
+				<ellipse cx="-138.7" cy="311.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="304.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="297.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="290.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="282.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="275.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="268.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="261.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="254.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="246.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="239.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="232.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="225.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="218.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="210.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="210.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="218.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="225.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="232.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="239.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="246.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="254.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="261.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="268.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="275.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="282.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="290.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="297.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="304.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="311.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-246.3" cy="339.5" rx="3.5" ry="3.5"/>
+				<ellipse cx="-203.1" cy="339.5" rx="3.5" ry="3.5"/>
+				<ellipse cx="-203.1" cy="377.3" rx="3.5" ry="3.5"/>
+				<ellipse cx="-246.3" cy="377.3" rx="3.5" ry="3.5"/>
+				<ellipse cx="-217.5" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-224.7" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-231.9" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-253.5" cy="358.4" rx="2.8" ry="2.8"/>
+				<ellipse cx="-253.5" cy="365.6" rx="2.8" ry="2.8"/>
+				<ellipse cx="-253.5" cy="351.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-215.7" cy="336.8" rx="2.8" ry="2.8"/>
+				<ellipse cx="-233.7" cy="336.8" rx="2.8" ry="2.8"/>
+				<ellipse cx="-233.7" cy="322.4" rx="2.8" ry="2.8"/>
+				<ellipse cx="-215.7" cy="322.4" rx="2.8" ry="2.8"/>
+				<ellipse cx="-69.1" cy="339.5" rx="3.5" ry="3.5"/>
+				<ellipse cx="-25.9" cy="339.5" rx="3.5" ry="3.5"/>
+				<ellipse cx="-25.9" cy="377.3" rx="3.5" ry="3.5"/>
+				<ellipse cx="-69.1" cy="377.3" rx="3.5" ry="3.5"/>
+				<ellipse cx="-40.3" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-47.5" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-54.7" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-76.3" cy="358.4" rx="2.8" ry="2.8"/>
+				<ellipse cx="-76.3" cy="365.6" rx="2.8" ry="2.8"/>
+				<ellipse cx="-76.3" cy="351.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-38.5" cy="336.8" rx="2.8" ry="2.8"/>
+				<ellipse cx="-56.5" cy="336.8" rx="2.8" ry="2.8"/>
+				<ellipse cx="-56.5" cy="322.4" rx="2.8" ry="2.8"/>
+				<ellipse cx="-38.5" cy="322.4" rx="2.8" ry="2.8"/>
+				<polygon points="-121.7,309.8 -121.7,305 -116.9,305 -116.9,309.8 				"/>
+				<ellipse cx="-112.1" cy="307.4" rx="2.4" ry="2.4"/>
+				<ellipse cx="-104.9" cy="307.4" rx="2.4" ry="2.4"/>
+				<ellipse cx="-97.7" cy="307.4" rx="2.4" ry="2.4"/>
+				<ellipse cx="-97.7" cy="300.2" rx="2.4" ry="2.4"/>
+				<ellipse cx="-104.9" cy="300.2" rx="2.4" ry="2.4"/>
+				<ellipse cx="-112.1" cy="300.2" rx="2.4" ry="2.4"/>
+				<ellipse cx="-119.3" cy="300.2" rx="2.4" ry="2.4"/>
+			</g>
+		</mask>
+		<path id="bottomBoardSolderReal" class="st21" d="M-270.8,397.3V198.9H-1.5v198.4H-270.8z"/>
+		<g id="bottomSignalReal" class="st12">
+			<g id="gge2392_11_2_" class="st22">
+				<ellipse class="st5" cx="-221.4" cy="265.9" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2397_11_2_" class="st22">
+				<ellipse class="st5" cx="-214.2" cy="237.1" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2402_11_2_" class="st22">
+				<ellipse class="st5" cx="-207.7" cy="265.9" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2423_11_2_" class="st22">
+				<ellipse class="st5" cx="-46.9" cy="277.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge2428_11_2_" class="st22">
+				<ellipse class="st5" cx="-46.9" cy="307" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge2446_11_2_" class="st22">
+				<ellipse class="st5" cx="-64.5" cy="265.9" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2451_11_2_" class="st22">
+				<ellipse class="st5" cx="-57.3" cy="237.1" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2456_11_2_" class="st22">
+				<ellipse class="st5" cx="-50.8" cy="265.9" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2001_11_2_" class="st22">
+				<ellipse class="st5" cx="-136.2" cy="340.2" rx="2.3" ry="2.3"/>
+			</g>
+			<g id="gge2006_11_2_" class="st22">
+				<ellipse class="st5" cx="-136.2" cy="347.4" rx="2.3" ry="2.3"/>
+			</g>
+			<g id="gge8_11_2_" class="st22">
+				<line class="st6" x1="-259.5" y1="238" x2="-253.8" y2="238"/>
+			</g>
+			<g id="gge13_11_2_" class="st22">
+				<line class="st6" x1="-259.5" y1="251.3" x2="-253.8" y2="251.3"/>
+			</g>
+			<g id="gge18_11_2_" class="st22">
+				<line class="st6" x1="-259.5" y1="264.7" x2="-253.8" y2="264.7"/>
+			</g>
+			<g id="gge30_11_2_" class="st22">
+				<line class="st6" x1="-18.5" y1="238" x2="-12.9" y2="238"/>
+			</g>
+			<g id="gge35_11_2_" class="st22">
+				<line class="st6" x1="-18.5" y1="251.3" x2="-12.9" y2="251.3"/>
+			</g>
+			<g id="gge40_11_2_" class="st22">
+				<line class="st6" x1="-18.5" y1="264.7" x2="-12.9" y2="264.7"/>
+			</g>
+			<g id="gge105_11_2_" class="st22">
+				<ellipse class="st5" cx="-217.7" cy="294.6" rx="2.6" ry="2.6"/>
+			</g>
+			<g id="gge110_11_2_" class="st22">
+				<polygon class="st5" points="-215.1,284.9 -215.1,290 -220.2,290 -220.2,284.9 				"/>
+			</g>
+			<g id="gge122_11_2_" class="st22">
+				<ellipse class="st5" cx="-176" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge127_11_2_" class="st22">
+				<ellipse class="st5" cx="-161.2" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge139_11_2_" class="st22">
+				<ellipse class="st5" cx="-143.4" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge144_11_2_" class="st22">
+				<ellipse class="st5" cx="-128.6" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge156_11_2_" class="st22">
+				<ellipse class="st5" cx="-110.8" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge161_11_2_" class="st22">
+				<ellipse class="st5" cx="-96" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge221_11_2_" class="st22">
+				<ellipse class="st5" cx="-68.1" cy="291" rx="1.8" ry="1.8"/>
+			</g>
+			<g id="gge226_11_2_" class="st22">
+				<ellipse class="st5" cx="-62.5" cy="291" rx="1.8" ry="1.8"/>
+			</g>
+			<g id="gge271_11_2_" class="st22">
+				<ellipse class="st5" cx="-138.7" cy="311.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge276_11_2_" class="st22">
+				<ellipse class="st5" cx="-138.7" cy="304.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge281_11_2_" class="st22">
+				<ellipse class="st5" cx="-138.7" cy="297.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge286_11_2_" class="st22">
+				<ellipse class="st5" cx="-138.7" cy="290.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge291_11_2_" class="st22">
+				<ellipse class="st5" cx="-138.7" cy="282.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge296_11_2_" class="st22">
+				<ellipse class="st5" cx="-138.7" cy="275.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge301_11_2_" class="st22">
+				<ellipse class="st5" cx="-138.7" cy="268.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge306_11_2_" class="st22">
+				<ellipse class="st5" cx="-138.7" cy="261.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge311_11_2_" class="st22">
+				<ellipse class="st5" cx="-138.7" cy="254.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge316_11_2_" class="st22">
+				<ellipse class="st5" cx="-138.7" cy="246.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge321_11_2_" class="st22">
+				<ellipse class="st5" cx="-138.7" cy="239.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge326_11_2_" class="st22">
+				<ellipse class="st5" cx="-138.7" cy="232.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge331_11_2_" class="st22">
+				<ellipse class="st5" cx="-138.7" cy="225.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge336_11_2_" class="st22">
+				<ellipse class="st5" cx="-138.7" cy="218.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge341_11_2_" class="st22">
+				<ellipse class="st5" cx="-138.7" cy="210.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge346_11_2_" class="st22">
+				<ellipse class="st5" cx="-181.9" cy="210.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge351_11_2_" class="st22">
+				<ellipse class="st5" cx="-181.9" cy="218.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge356_11_2_" class="st22">
+				<ellipse class="st5" cx="-181.9" cy="225.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge361_11_2_" class="st22">
+				<ellipse class="st5" cx="-181.9" cy="232.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge366_11_2_" class="st22">
+				<ellipse class="st5" cx="-181.9" cy="239.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge371_11_2_" class="st22">
+				<ellipse class="st5" cx="-181.9" cy="246.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge376_11_2_" class="st22">
+				<ellipse class="st5" cx="-181.9" cy="254.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge381_11_2_" class="st22">
+				<ellipse class="st5" cx="-181.9" cy="261.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge386_11_2_" class="st22">
+				<ellipse class="st5" cx="-181.9" cy="268.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge391_11_2_" class="st22">
+				<ellipse class="st5" cx="-181.9" cy="275.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge396_11_2_" class="st22">
+				<ellipse class="st5" cx="-181.9" cy="282.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge401_11_2_" class="st22">
+				<ellipse class="st5" cx="-181.9" cy="290.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge406_11_2_" class="st22">
+				<ellipse class="st5" cx="-181.9" cy="297.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge411_11_2_" class="st22">
+				<ellipse class="st5" cx="-181.9" cy="304.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge416_11_2_" class="st22">
+				<ellipse class="st5" cx="-181.9" cy="311.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge452_11_2_" class="st22">
+				<ellipse class="st5" cx="-246.3" cy="339.5" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge457_11_2_" class="st22">
+				<ellipse class="st5" cx="-203.1" cy="339.5" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge462_11_2_" class="st22">
+				<ellipse class="st5" cx="-203.1" cy="377.3" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge467_11_2_" class="st22">
+				<ellipse class="st5" cx="-246.3" cy="377.3" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge472_11_2_" class="st22">
+				<ellipse class="st5" cx="-217.5" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge477_11_2_" class="st22">
+				<ellipse class="st5" cx="-224.7" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge482_11_2_" class="st22">
+				<ellipse class="st5" cx="-231.9" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge487_11_2_" class="st22">
+				<ellipse class="st5" cx="-253.5" cy="358.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge492_11_2_" class="st22">
+				<ellipse class="st5" cx="-253.5" cy="365.6" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge497_11_2_" class="st22">
+				<ellipse class="st5" cx="-253.5" cy="351.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge502_11_2_" class="st22">
+				<ellipse class="st5" cx="-215.7" cy="336.8" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge507_11_2_" class="st22">
+				<ellipse class="st5" cx="-233.7" cy="336.8" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge512_11_2_" class="st22">
+				<ellipse class="st5" cx="-233.7" cy="322.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge517_11_2_" class="st22">
+				<ellipse class="st5" cx="-215.7" cy="322.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge595_11_2_" class="st22">
+				<ellipse class="st5" cx="-69.1" cy="339.5" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge600_11_2_" class="st22">
+				<ellipse class="st5" cx="-25.9" cy="339.5" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge605_11_2_" class="st22">
+				<ellipse class="st5" cx="-25.9" cy="377.3" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge610_11_2_" class="st22">
+				<ellipse class="st5" cx="-69.1" cy="377.3" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge615_11_2_" class="st22">
+				<ellipse class="st5" cx="-40.3" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge620_11_2_" class="st22">
+				<ellipse class="st5" cx="-47.5" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge625_11_2_" class="st22">
+				<ellipse class="st5" cx="-54.7" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge630_11_2_" class="st22">
+				<ellipse class="st5" cx="-76.3" cy="358.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge635_11_2_" class="st22">
+				<ellipse class="st5" cx="-76.3" cy="365.6" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge640_11_2_" class="st22">
+				<ellipse class="st5" cx="-76.3" cy="351.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge645_11_2_" class="st22">
+				<ellipse class="st5" cx="-38.5" cy="336.8" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge650_11_2_" class="st22">
+				<ellipse class="st5" cx="-56.5" cy="336.8" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge655_11_2_" class="st22">
+				<ellipse class="st5" cx="-56.5" cy="322.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge660_11_2_" class="st22">
+				<ellipse class="st5" cx="-38.5" cy="322.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge725_11_2_" class="st22">
+				<polygon class="st5" points="-121.4,305.3 -117.2,305.3 -117.2,309.5 -121.4,309.5 				"/>
+			</g>
+			<g id="gge730_11_2_" class="st22">
+				<ellipse class="st5" cx="-112.1" cy="307.4" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge735_11_2_" class="st22">
+				<ellipse class="st5" cx="-104.9" cy="307.4" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge740_11_2_" class="st22">
+				<ellipse class="st5" cx="-97.7" cy="307.4" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge745_11_2_" class="st22">
+				<ellipse class="st5" cx="-97.7" cy="300.2" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge750_11_2_" class="st22">
+				<ellipse class="st5" cx="-104.9" cy="300.2" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge755_11_2_" class="st22">
+				<ellipse class="st5" cx="-112.1" cy="300.2" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge760_11_2_" class="st22">
+				<ellipse class="st5" cx="-119.3" cy="300.2" rx="2.1" ry="2.1"/>
+			</g>
+		</g>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_4_" filterUnits="userSpaceOnUse" x="-259.5" y="208.7" width="246.6" height="181">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="-259.5" y="208.7" width="246.6" height="181" id="bottomSignalSolderMask">
+			<path class="st23" d="M-270.8,397.3V198.9H-1.5v198.4H-270.8z"/>
+			<g>
+				<ellipse cx="-221.4" cy="265.9" rx="3.3" ry="3.3"/>
+				<ellipse cx="-214.2" cy="237.1" rx="3.3" ry="3.3"/>
+				<ellipse cx="-207.7" cy="265.9" rx="3.3" ry="3.3"/>
+				<ellipse cx="-46.9" cy="277.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-46.9" cy="307" rx="2.3" ry="2.3"/>
+				<ellipse cx="-64.5" cy="265.9" rx="3.3" ry="3.3"/>
+				<ellipse cx="-57.3" cy="237.1" rx="3.3" ry="3.3"/>
+				<ellipse cx="-50.8" cy="265.9" rx="3.3" ry="3.3"/>
+				<ellipse cx="-136.2" cy="340.2" rx="2.6" ry="2.6"/>
+				<ellipse cx="-136.2" cy="347.4" rx="2.6" ry="2.6"/>
+				<path d="M-259.5,241.1c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-259.5z"
+					/>
+				<path d="M-259.5,254.5c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-259.5z"
+					/>
+				<path d="M-259.5,267.8c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-259.5z"
+					/>
+				<path d="M-18.5,241.1c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-18.5z"/>
+				<path d="M-18.5,254.5c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-18.5z"/>
+				<path d="M-18.5,267.8c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1h5.7c1.7,0,3.1,1.4,3.1,3.1c0,1.7-1.4,3.1-3.1,3.1H-18.5z"/>
+				<ellipse cx="-217.7" cy="294.6" rx="2.7" ry="2.7"/>
+				<polygon points="-220.4,290.1 -220.4,284.7 -215,284.7 -215,290.1 				"/>
+				<ellipse cx="-176" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-161.2" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-143.4" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-128.6" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-110.8" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-96" cy="374.7" rx="3.1" ry="3.1"/>
+				<ellipse cx="-68.1" cy="291" rx="2" ry="2"/>
+				<ellipse cx="-62.5" cy="291" rx="2" ry="2"/>
+				<ellipse cx="-138.7" cy="311.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="304.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="297.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="290.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="282.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="275.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="268.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="261.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="254.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="246.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="239.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="232.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="225.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="218.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-138.7" cy="210.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="210.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="218.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="225.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="232.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="239.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="246.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="254.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="261.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="268.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="275.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="282.9" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="290.1" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="297.3" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="304.5" rx="2.3" ry="2.3"/>
+				<ellipse cx="-181.9" cy="311.7" rx="2.3" ry="2.3"/>
+				<ellipse cx="-246.3" cy="339.5" rx="3.5" ry="3.5"/>
+				<ellipse cx="-203.1" cy="339.5" rx="3.5" ry="3.5"/>
+				<ellipse cx="-203.1" cy="377.3" rx="3.5" ry="3.5"/>
+				<ellipse cx="-246.3" cy="377.3" rx="3.5" ry="3.5"/>
+				<ellipse cx="-217.5" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-224.7" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-231.9" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-253.5" cy="358.4" rx="2.8" ry="2.8"/>
+				<ellipse cx="-253.5" cy="365.6" rx="2.8" ry="2.8"/>
+				<ellipse cx="-253.5" cy="351.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-215.7" cy="336.8" rx="2.8" ry="2.8"/>
+				<ellipse cx="-233.7" cy="336.8" rx="2.8" ry="2.8"/>
+				<ellipse cx="-233.7" cy="322.4" rx="2.8" ry="2.8"/>
+				<ellipse cx="-215.7" cy="322.4" rx="2.8" ry="2.8"/>
+				<ellipse cx="-69.1" cy="339.5" rx="3.5" ry="3.5"/>
+				<ellipse cx="-25.9" cy="339.5" rx="3.5" ry="3.5"/>
+				<ellipse cx="-25.9" cy="377.3" rx="3.5" ry="3.5"/>
+				<ellipse cx="-69.1" cy="377.3" rx="3.5" ry="3.5"/>
+				<ellipse cx="-40.3" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-47.5" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-54.7" cy="387.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-76.3" cy="358.4" rx="2.8" ry="2.8"/>
+				<ellipse cx="-76.3" cy="365.6" rx="2.8" ry="2.8"/>
+				<ellipse cx="-76.3" cy="351.2" rx="2.8" ry="2.8"/>
+				<ellipse cx="-38.5" cy="336.8" rx="2.8" ry="2.8"/>
+				<ellipse cx="-56.5" cy="336.8" rx="2.8" ry="2.8"/>
+				<ellipse cx="-56.5" cy="322.4" rx="2.8" ry="2.8"/>
+				<ellipse cx="-38.5" cy="322.4" rx="2.8" ry="2.8"/>
+				<polygon points="-121.7,309.8 -121.7,305 -116.9,305 -116.9,309.8 				"/>
+				<ellipse cx="-112.1" cy="307.4" rx="2.4" ry="2.4"/>
+				<ellipse cx="-104.9" cy="307.4" rx="2.4" ry="2.4"/>
+				<ellipse cx="-97.7" cy="307.4" rx="2.4" ry="2.4"/>
+				<ellipse cx="-97.7" cy="300.2" rx="2.4" ry="2.4"/>
+				<ellipse cx="-104.9" cy="300.2" rx="2.4" ry="2.4"/>
+				<ellipse cx="-112.1" cy="300.2" rx="2.4" ry="2.4"/>
+				<ellipse cx="-119.3" cy="300.2" rx="2.4" ry="2.4"/>
+			</g>
+		</mask>
+		<g id="bottomSignalSolderReal" class="st24">
+			<g id="gge2392_11_3_" class="st22">
+				<ellipse cx="-221.4" cy="265.9" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2397_11_3_" class="st22">
+				<ellipse cx="-214.2" cy="237.1" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2402_11_3_" class="st22">
+				<ellipse cx="-207.7" cy="265.9" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2423_11_3_" class="st22">
+				<ellipse cx="-46.9" cy="277.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge2428_11_3_" class="st22">
+				<ellipse cx="-46.9" cy="307" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge2446_11_3_" class="st22">
+				<ellipse cx="-64.5" cy="265.9" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2451_11_3_" class="st22">
+				<ellipse cx="-57.3" cy="237.1" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2456_11_3_" class="st22">
+				<ellipse cx="-50.8" cy="265.9" rx="3.1" ry="3.1"/>
+			</g>
+			<g id="gge2001_11_3_" class="st22">
+				<ellipse cx="-136.2" cy="340.2" rx="2.3" ry="2.3"/>
+			</g>
+			<g id="gge2006_11_3_" class="st22">
+				<ellipse cx="-136.2" cy="347.4" rx="2.3" ry="2.3"/>
+			</g>
+			<g id="gge8_11_3_" class="st22">
+				<line class="st9" x1="-259.5" y1="238" x2="-253.8" y2="238"/>
+			</g>
+			<g id="gge13_11_3_" class="st22">
+				<line class="st9" x1="-259.5" y1="251.3" x2="-253.8" y2="251.3"/>
+			</g>
+			<g id="gge18_11_3_" class="st22">
+				<line class="st9" x1="-259.5" y1="264.7" x2="-253.8" y2="264.7"/>
+			</g>
+			<g id="gge30_11_3_" class="st22">
+				<line class="st9" x1="-18.5" y1="238" x2="-12.9" y2="238"/>
+			</g>
+			<g id="gge35_11_3_" class="st22">
+				<line class="st9" x1="-18.5" y1="251.3" x2="-12.9" y2="251.3"/>
+			</g>
+			<g id="gge40_11_3_" class="st22">
+				<line class="st9" x1="-18.5" y1="264.7" x2="-12.9" y2="264.7"/>
+			</g>
+			<g id="gge105_11_3_" class="st22">
+				<ellipse cx="-217.7" cy="294.6" rx="2.6" ry="2.6"/>
+			</g>
+			<g id="gge110_11_3_" class="st22">
+				<polygon points="-215.1,284.9 -215.1,290 -220.2,290 -220.2,284.9 				"/>
+			</g>
+			<g id="gge122_11_3_" class="st22">
+				<ellipse cx="-176" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge127_11_3_" class="st22">
+				<ellipse cx="-161.2" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge139_11_3_" class="st22">
+				<ellipse cx="-143.4" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge144_11_3_" class="st22">
+				<ellipse cx="-128.6" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge156_11_3_" class="st22">
+				<ellipse cx="-110.8" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge161_11_3_" class="st22">
+				<ellipse cx="-96" cy="374.7" rx="2.8" ry="2.8"/>
+			</g>
+			<g id="gge221_11_3_" class="st22">
+				<ellipse cx="-68.1" cy="291" rx="1.8" ry="1.8"/>
+			</g>
+			<g id="gge226_11_3_" class="st22">
+				<ellipse cx="-62.5" cy="291" rx="1.8" ry="1.8"/>
+			</g>
+			<g id="gge271_11_3_" class="st22">
+				<ellipse cx="-138.7" cy="311.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge276_11_3_" class="st22">
+				<ellipse cx="-138.7" cy="304.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge281_11_3_" class="st22">
+				<ellipse cx="-138.7" cy="297.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge286_11_3_" class="st22">
+				<ellipse cx="-138.7" cy="290.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge291_11_3_" class="st22">
+				<ellipse cx="-138.7" cy="282.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge296_11_3_" class="st22">
+				<ellipse cx="-138.7" cy="275.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge301_11_3_" class="st22">
+				<ellipse cx="-138.7" cy="268.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge306_11_3_" class="st22">
+				<ellipse cx="-138.7" cy="261.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge311_11_3_" class="st22">
+				<ellipse cx="-138.7" cy="254.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge316_11_3_" class="st22">
+				<ellipse cx="-138.7" cy="246.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge321_11_3_" class="st22">
+				<ellipse cx="-138.7" cy="239.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge326_11_3_" class="st22">
+				<ellipse cx="-138.7" cy="232.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge331_11_3_" class="st22">
+				<ellipse cx="-138.7" cy="225.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge336_11_3_" class="st22">
+				<ellipse cx="-138.7" cy="218.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge341_11_3_" class="st22">
+				<ellipse cx="-138.7" cy="210.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge346_11_3_" class="st22">
+				<ellipse cx="-181.9" cy="210.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge351_11_3_" class="st22">
+				<ellipse cx="-181.9" cy="218.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge356_11_3_" class="st22">
+				<ellipse cx="-181.9" cy="225.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge361_11_3_" class="st22">
+				<ellipse cx="-181.9" cy="232.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge366_11_3_" class="st22">
+				<ellipse cx="-181.9" cy="239.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge371_11_3_" class="st22">
+				<ellipse cx="-181.9" cy="246.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge376_11_3_" class="st22">
+				<ellipse cx="-181.9" cy="254.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge381_11_3_" class="st22">
+				<ellipse cx="-181.9" cy="261.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge386_11_3_" class="st22">
+				<ellipse cx="-181.9" cy="268.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge391_11_3_" class="st22">
+				<ellipse cx="-181.9" cy="275.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge396_11_3_" class="st22">
+				<ellipse cx="-181.9" cy="282.9" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge401_11_3_" class="st22">
+				<ellipse cx="-181.9" cy="290.1" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge406_11_3_" class="st22">
+				<ellipse cx="-181.9" cy="297.3" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge411_11_3_" class="st22">
+				<ellipse cx="-181.9" cy="304.5" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge416_11_3_" class="st22">
+				<ellipse cx="-181.9" cy="311.7" rx="2.2" ry="2.2"/>
+			</g>
+			<g id="gge452_11_3_" class="st22">
+				<ellipse cx="-246.3" cy="339.5" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge457_11_3_" class="st22">
+				<ellipse cx="-203.1" cy="339.5" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge462_11_3_" class="st22">
+				<ellipse cx="-203.1" cy="377.3" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge467_11_3_" class="st22">
+				<ellipse cx="-246.3" cy="377.3" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge472_11_3_" class="st22">
+				<ellipse cx="-217.5" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge477_11_3_" class="st22">
+				<ellipse cx="-224.7" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge482_11_3_" class="st22">
+				<ellipse cx="-231.9" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge487_11_3_" class="st22">
+				<ellipse cx="-253.5" cy="358.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge492_11_3_" class="st22">
+				<ellipse cx="-253.5" cy="365.6" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge497_11_3_" class="st22">
+				<ellipse cx="-253.5" cy="351.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge502_11_3_" class="st22">
+				<ellipse cx="-215.7" cy="336.8" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge507_11_3_" class="st22">
+				<ellipse cx="-233.7" cy="336.8" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge512_11_3_" class="st22">
+				<ellipse cx="-233.7" cy="322.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge517_11_3_" class="st22">
+				<ellipse cx="-215.7" cy="322.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge595_11_3_" class="st22">
+				<ellipse cx="-69.1" cy="339.5" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge600_11_3_" class="st22">
+				<ellipse cx="-25.9" cy="339.5" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge605_11_3_" class="st22">
+				<ellipse cx="-25.9" cy="377.3" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge610_11_3_" class="st22">
+				<ellipse cx="-69.1" cy="377.3" rx="3.2" ry="3.2"/>
+			</g>
+			<g id="gge615_11_3_" class="st22">
+				<ellipse cx="-40.3" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge620_11_3_" class="st22">
+				<ellipse cx="-47.5" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge625_11_3_" class="st22">
+				<ellipse cx="-54.7" cy="387.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge630_11_3_" class="st22">
+				<ellipse cx="-76.3" cy="358.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge635_11_3_" class="st22">
+				<ellipse cx="-76.3" cy="365.6" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge640_11_3_" class="st22">
+				<ellipse cx="-76.3" cy="351.2" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge645_11_3_" class="st22">
+				<ellipse cx="-38.5" cy="336.8" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge650_11_3_" class="st22">
+				<ellipse cx="-56.5" cy="336.8" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge655_11_3_" class="st22">
+				<ellipse cx="-56.5" cy="322.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge660_11_3_" class="st22">
+				<ellipse cx="-38.5" cy="322.4" rx="2.5" ry="2.5"/>
+			</g>
+			<g id="gge725_11_3_" class="st22">
+				<polygon points="-121.4,305.3 -117.2,305.3 -117.2,309.5 -121.4,309.5 				"/>
+			</g>
+			<g id="gge730_11_3_" class="st22">
+				<ellipse cx="-112.1" cy="307.4" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge735_11_3_" class="st22">
+				<ellipse cx="-104.9" cy="307.4" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge740_11_3_" class="st22">
+				<ellipse cx="-97.7" cy="307.4" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge745_11_3_" class="st22">
+				<ellipse cx="-97.7" cy="300.2" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge750_11_3_" class="st22">
+				<ellipse cx="-104.9" cy="300.2" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge755_11_3_" class="st22">
+				<ellipse cx="-112.1" cy="300.2" rx="2.1" ry="2.1"/>
+			</g>
+			<g id="gge760_11_3_" class="st22">
+				<ellipse cx="-119.3" cy="300.2" rx="2.1" ry="2.1"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
