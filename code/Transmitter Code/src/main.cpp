@@ -23,7 +23,9 @@ const byte address[6] = "00013"; // address to use over nrf
 #define button003 6
 // define pins for switchs
 #define switch001 9
-#define switch002 10
+// turns out, u can not use the 10th digital pin when using SPI as it is the SS pin
+// so instead we will be using A0
+#define switch002 A0
 
 // declare packet struct
 packet data;
