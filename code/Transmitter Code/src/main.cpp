@@ -32,7 +32,6 @@ packet data;
 
 void setup()
 {
-	Serial.begin(9600);
 	// config and start nrf
 	radio.begin();
 	radio.setAutoAck(false);
