@@ -13,22 +13,22 @@ packet data;
 void reset()
 {
 	// set joysticks
-	data.joystick1.button = 0;
-	data.joystick2.button = 0;
+	data.joystick1.button = 1;
+	data.joystick2.button = 1;
 	data.joystick1.x = 128;
 	data.joystick2.x = 128;
 	data.joystick1.y = 128;
 	data.joystick2.y = 128;
 	// set potentiometers
-	data.potentiometer1 = 0;
-	data.potentiometer2 = 0;
+	data.potentiometer1 = 1;
+	data.potentiometer2 = 1;
 	// set buttons
-	data.button1 = 0;
-	data.button2 = 0;
-	data.button3 = 0;
+	data.button1 = 1;
+	data.button2 = 1;
+	data.button3 = 1;
 	// set switchs
-	data.switch1 = 0;
-	data.switch2 = 0;
+	data.switch1 = 1;
+	data.switch2 = 1;
 }
 
 void setup()
