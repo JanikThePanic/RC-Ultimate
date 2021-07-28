@@ -4,8 +4,10 @@
 #include <RF24.h>
 #include "../../packet.h"
 
-RF24 radio(7, 8);				 // pins for nrf CE, CSN
+RF24 radio(7, 8);				 // start nrf object with pins for CE and CSN
 const byte address[6] = "00013"; // address to use over nrf
+
+int lostConnectionCounter;
 
 // declare packet struct
 packet data;
@@ -43,16 +45,34 @@ void setup()
 	radio.setPALevel(RF24_PA_MIN);
 	radio.startListening();
 
+	// start with 0 lost connection packets
+	lostConnectionCounter = 0;
+	// set the varibles to the defualt controller stats
 	reset();
 }
 
 void loop()
 {
-	reset();
 
 	if (radio.available())
 	{
+		// assign the data we catch to the data struct
 		radio.read(&data, sizeof(data));
+		// if we get data, we can reset the no connection counter
+		lostConnectionCounter = 0;
+	}
+	else
+	{
+		// if it doesnt catch any data, we  will upper the count of no data
+		lostConnectionCounter++;
+		// after not seeing data 15 times, we can assume we lost connection
+		if (lostConnectionCounter >= 15)
+		{
+			Serial.println("Lost Connection");
+			// set the varibles to the defualt controller stats
+			// this avoids a robot for example from driving into a wall after losing connection
+			reset();
+		}
 	}
 
 	// see joystick1
