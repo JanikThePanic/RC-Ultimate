@@ -10,6 +10,7 @@ const byte address[6] = "00013"; // address to use over nrf
 // declare packet struct
 packet data;
 
+// default positions of controller
 void reset()
 {
 	// set joysticks
@@ -42,7 +43,6 @@ void setup()
 	radio.setPALevel(RF24_PA_MIN);
 	radio.startListening();
 
-	// set defualt joystick stats
 	reset();
 }
 
@@ -69,6 +69,14 @@ void loop()
 	// Serial.print(" ");
 	// Serial.print("y2: ");
 	// Serial.print(data.joystick2.y);
+	// Serial.println();
+
+	// see joystick buttons
+	// Serial.print("joystick1: ");
+	// Serial.print(data.joystick1.button);
+	// Serial.print(" ");
+	// Serial.print("joystick1: ");
+	// Serial.print(data.joystick2.button;
 	// Serial.println();
 
 	// see switchs
