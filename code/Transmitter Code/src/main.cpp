@@ -53,8 +53,8 @@ void setup()
 void loop()
 {
 	// read joysticks
-	data.joystick1.button = digitalRead(joystick001Button);
-	data.joystick2.button = digitalRead(joystick002Button);
+	data.joystick1.button = !digitalRead(joystick001Button);
+	data.joystick2.button = !digitalRead(joystick002Button);
 	data.joystick1.x = map(analogRead(joystick001X), 0, 1023, 0, 255);
 	data.joystick2.x = map(analogRead(joystick001X), 0, 1023, 0, 255);
 	data.joystick1.y = map(analogRead(joystick001Y), 0, 1023, 0, 255);
@@ -63,12 +63,12 @@ void loop()
 	data.potentiometer1 = map(analogRead(potentiometer001), 0, 1023, 0, 255);
 	data.potentiometer2 = map(analogRead(potentiometer002), 0, 1023, 0, 255);
 	// read buttons
-	data.button1 = digitalRead(button001);
-	data.button2 = digitalRead(button002);
-	data.button3 = digitalRead(button003);
+	data.button1 = !digitalRead(button001);
+	data.button2 = !digitalRead(button002);
+	data.button3 = !digitalRead(button003);
 	// read switchs
-	data.switch1 = digitalRead(switch001);
-	data.switch2 = digitalRead(switch002);
+	data.switch1 = !digitalRead(switch001);
+	data.switch2 = !digitalRead(switch002);
 
 	// send packet over nrf
 	radio.write(&data, sizeof(data));
