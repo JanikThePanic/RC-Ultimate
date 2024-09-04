@@ -56,7 +56,7 @@ void loop()
 	data.joystick1.button = !digitalRead(joystick001Button);
 	data.joystick2.button = !digitalRead(joystick002Button);
 	data.joystick1.x = map(analogRead(joystick001X), 0, 1023, 0, 255);
-	data.joystick2.x = map(analogRead(joystick001X), 0, 1023, 0, 255);
+	data.joystick2.x = map(analogRead(joystick002X), 0, 1023, 0, 255);
 	data.joystick1.y = map(analogRead(joystick001Y), 0, 1023, 0, 255);
 	data.joystick2.y = map(analogRead(joystick002Y), 0, 1023, 0, 255);
 	// read potentiometers
